@@ -1,0 +1,732 @@
+ID,Nombre,Inteligencia,Fuerza,Velocidad,Durabilidad,Potencia,Combate,Genero,Etnia,Altura,Peso,Color_Ojos,Color_Pelo,Nombre Completo,Alias,Lugar de nacimiento,Primera aparición,Editor,Alineación
+1,A-Bomb,38,100,17,80,24,64,Male,Human,203 cm,441 kg,Yellow,No Hair,Richard Milhouse Jones,Rick Jones,"Scarsdale, Arizona","Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",Marvel Comics,good
+2,Abe Sapien,88,28,35,65,100,85,Male,Icthyo Sapien,191 cm,65 kg,Blue,No Hair,Abraham Sapien,"Langdon Everett Caul, Abraham Sapien, Langdon Caul",-,Hellboy: Seed of Destruction (1993),Dark Horse Comics,good
+3,Abin Sur,50,90,53,64,99,65,Male,Ungaran,185 cm,90 kg,Blue,No Hair,,Lagzia,Ungara,"Showcase #22 (October, 1959)",DC Comics,good
+4,Abomination,63,80,53,90,62,95,Male,Human / Radiation,203 cm,441 kg,Green,No Hair,Emil Blonsky,"Agent R-7, Ravager of Worlds","Zagreb, Yugoslavia",Tales to Astonish #90,Marvel Comics,bad
+5,Abraxas,88,63,83,100,100,55,Male,Cosmic Entity,0 cm,0 kg,Blue,Black,Abraxas,-,Within Eternity,Fantastic Four Annual #2001,Marvel Comics,bad
+6,Absorbing Man,38,80,25,100,98,64,Male,Human,193 cm,122 kg,Blue,No Hair,Carl Creel,"Greithoth, ""Crusher"" Creel, Rocky Davis, Dynamite Davis, Lightningbolt, Prisoner #24957","New York City, New York","Daredevil #1 (April, 1964) (As Rocky Davis)",Marvel Comics,bad
+7,Adam Monroe,63,10,12,100,100,64,Male,null,0 cm,0 kg,Blue,Blond,,"Takezo Kensei, Richard Sanders",-,Heroes S02E01 - Four Months Later...,NBC - Heroes,good
+8,Adam Strange,69,10,33,40,37,50,Male,Human,185 cm,88 kg,Blue,Blond,Adam Strange,"Warrior of Two Worlds, Savior of Rann","Chicago, Illinois","Outsiders #6 (April, 1986)",DC Comics,good
+9,Agent 13,Sin dato,46,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,173 cm,61 kg,Blue,Blond,Sharon Carter,-,-,Tales of Suspense #75,Sharon Carter,good
+10,Agent Bob,10,8,13,5,5,20,Male,Human,178 cm,81 kg,Brown,Brown,Bob,"Bob, agent of Hydra, Bob, agent of A.I.M",-,"Cable & Deadpool #38 (May, 2007)",Marvel Comics,good
+11,Agent Zero,75,28,38,80,72,95,Male,null,191 cm,104 kg,-,-,Christoph Nord,Maverick,Unrevealed location in former East Germany,-,Marvel Comics,good
+12,Air-Walker,50,85,100,85,100,40,Male,null,188 cm,108 kg,Blue,White,Gabriel Lan,-,"Xandar, a planet in the Tranta system, Andromeda galaxy",Fantastic Four #120,Marvel Comics,bad
+13,Ajax,56,48,35,80,34,55,Male,Cyborg,193 cm,90 kg,Brown,Black,Francis,"""Frankie"", the A-Man, the Attending",-,"Deadpool #14 (March, 1998)",Marvel Comics,bad
+14,Alan Scott,63,80,23,90,100,32,Male,null,180 cm,90 kg,Blue,Blond,Alan Ladd Wellington Scott,"Green Lantern, White King, Sentinal",Gotham City,All-American Comics 16 (1940),DC Comics,good
+15,Alex Mercer,50,80,42,90,100,50,Male,Human,0 cm,0 kg,-,-,Alexander J. Mercer,"Prototype, Zues, Blacklight",-,-,Wildstorm,bad
+16,Alex Woolsly,Sin dato,37,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Alex Woolsly,-,-,Heroes S02E16 - Building 26,NBC - Heroes,good
+17,Alfred Pennyworth,63,10,17,10,7,55,Male,Human,178 cm,72 kg,Blue,Black,Alfred Thaddeus Crane Pennyworth,Alfred Beagle,-,"Batman #16 (April, 1943)",DC Comics,good
+18,Alien,50,28,42,90,57,60,Male,Xenomorph XX121,244 cm,169 kg,-,No Hair,Xenomorph,-,Your chest :),Alien (1979),Dark Horse Comics,bad
+19,Allan Quatermain,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,(original version) King Solomon's Mines; (this version) League of Extraordinary Gentlemen #1 (America's Best Comics),Wildstorm,good
+20,Amazo,63,100,83,100,100,100,Male,Android,257 cm,173 kg,Red,-,,"Professor Ivos Amazing Android, Timazo, Humazo, Hourmazo",-,"Brave and the Bold #30 (July, 1960)",DC Comics,bad
+21,Ammo,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,188 cm,101 kg,Brown,Black,,-,-,"Daredevil #252 (March, 1988)",Marvel Comics,bad
+22,Ando Masahashi,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Ando Masahashi,"Huggerz69, Sidekick",-,-,NBC - Heroes,good
+23,Angel,75,30,58,90,100,75,Male,Vampire,0 cm,0 kg,-,-,Liam,"Angelus, Twilight",-,-,Dark Horse Comics,good
+24,Angel,63,13,46,64,28,42,Male,null,183 cm,68 kg,Blue,Blond,Warren Kenneth Worthington III,"Formerly Death, Dark Angel, Angel, Avenging Angel, Archangel","Centerport, Long Island, New York",X-Men #54-56 (1969),Archangel,good
+25,Angel Dust,38,55,23,42,17,30,Female,Mutant,165 cm,57 kg,Yellow,Black,Christina,"Angel, Dusty",-,Morlocks #1,Marvel Comics,good
+26,Angel Salvadore,38,10,28,28,56,60,Female,null,163 cm,54 kg,Brown,Black,Angel Salvadore Bohusk,Tempest,-,"New X-Men #118 (November, 2001)",Tempest,good
+27,Angela,Sin dato,97,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,Image Comics,bad
+28,Animal Man,56,48,47,85,73,80,Male,Human,183 cm,83 kg,Blue,Blond,Bernhard Baker,The Human Zoo; A-Man; The Man with Animal Powers,-,"Strange Adventures #180 (September, 1965)",DC Comics,good
+29,Annihilus,75,80,47,56,59,64,Male,null,180 cm,90 kg,Green,No Hair,Annihilus,"The Living Death That Walks, Lord of the Negative Zone","Planet of Arthros, Sector 17A, Negative Zone",Fantastic Four Annual #6 (1968),Marvel Comics,bad
+30,Ant-Man,100,18,23,28,32,32,Male,Human,211 cm,122 kg,Blue,Blond,Hank Pym,"Hank Pym, Doctor Pym, Ant-Man, Goliath, Yellowjacket, Wasp, Earth's Scientist Supreme","Elmsford, New York","Tales to Astonish #27 (January, 1962) (as Hank Pym)  Tales to Astonish #35 (September, 1962) (as Ant-Man)",Giant-Man,good
+31,Ant-Man II,75,18,17,40,53,30,Male,Human,183 cm,86 kg,Blue,Blond,Scott Lang,"Myrmidon, Scott Edward Harris Lang","Coral Gables, Florida","Avengers Vol 1 #181 (March, 1979)",Marvel Comics,good
+32,Anti-Monitor,88,100,50,100,100,90,Male,God / Eternal,61.0 meters,0 kg,Yellow,No Hair,,"Monitor, Mobius",Moon of Qward,Crisis on Infinite Earths #4,DC Comics,bad
+33,Anti-Spawn,Sin dato,58,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Jason Wynn,Redeemer,-,Spawn #16,Image Comics,bad
+34,Anti-Venom,75,60,65,90,96,84,Male,Symbiote,229 cm,358 kg,Blue,Blond,Eddie Brock,"Eddie, Edwin Brock, Venom, Lethal Protector, White Venom, 998th","San Francisco, California",Amazing Spider-Man #569 (as Anti-Venom),Toxin,-
+35,Apocalypse,100,100,33,100,100,60,Male,Mutant,213 cm,135 kg,Red,Black,En Sabah Nur,"The Eternal One, the High Lord, Set, Huitxilopochti, Sauru, Kali-Ma","Akkaba, Egypt","X-Factor #5 (June, 1986)",Marvel Comics,bad
+36,Aquababy,10,16,12,14,37,14,Male,null,0 cm,0 kg,Blue,Blond,"Arthur Curry, Jr.",-,-,"Aquaman #23 (October, 1965)",DC Comics,good
+37,Aqualad,63,44,42,75,89,60,Male,Atlantean,178 cm,106 kg,Blue,Black,Garth,-,"Poseidonis, Atlantis","Adventure Comics #269 (February, 1960)",DC Comics,good
+38,Aquaman,81,85,79,80,100,80,Male,Atlantean,185 cm,146 kg,Blue,Blond,Orin,"Dweller in the Depths, Swimmer, Waterbearer, Mental Man, Aquaboy, Water Wraith",Atlantis,"More Fun Comics #73 (November, 1941)",DC Comics,good
+39,Arachne,50,48,50,70,71,70,Female,Human,175 cm,63 kg,Blue,Blond,Julia Carpenter,"Spider-Woman, Madame Web","Los Angeles, California",Marvel Super Heroes Secret Wars #6,Marvel Comics,good
+40,Archangel,63,13,58,64,35,42,Male,Mutant,183 cm,68 kg,Blue,Blond,Warren Kenneth Worthington III,"War, Dark Angel, Death, Avenging Angel","Centerport, Long Island, New York","X-Men #1 (September, 1963)",Angel,good
+41,Arclight,38,63,23,42,52,70,Female,null,173 cm,57 kg,Violet,Purple,Philippa Sontag,-,Vietnam,"(In shadow) Uncanny X-Men #210 (1986), (fully) X-Factor #10 (1986)",Marvel Comics,bad
+42,Ardina,63,100,100,80,100,25,Female,Alien,193 cm,98 kg,White,Orange,Ardina,-,-,The Order #4,Marvel Comics,good
+43,Ares,75,82,35,80,84,101,Male,null,185 cm,270 kg,Brown,Brown,,"God of War, Mister Talon, Mars, Warhawk",-,Thor #129,Marvel Comics,good
+44,Ariel,50,10,12,14,94,28,Female,null,165 cm,59 kg,Purple,Pink,Ariel,-,-,Fallen Angels #1 (1987),Marvel Comics,good
+45,Armor,50,63,12,80,55,54,Female,null,163 cm,50 kg,Black,Black,Hisako Ichiki,"X-Girl, Kid",-,Astonishing X-Men #4 (2004),Marvel Comics,good
+46,Arsenal,Sin dato,54,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,0 cm,0 kg,-,-,"Roy William Harper, Jr.",-,-,-,Speedy,good
+47,Astro Boy,Sin dato,90,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,Brown,Black,Atom,-,-,-,null,good
+48,Atlas,63,80,25,100,98,50,Male,Mutant,183 cm,101 kg,Brown,Red,Erik Josten,"Power Man, Smuggler, Goliath, Shatterfist, Intruder from Beyond, Edward Jantzen","Milwaukee, Wisconsin",Incredible Hulk #449,Goliath,good
+49,Atlas,63,100,42,100,27,80,Male,God / Eternal,198 cm,126 kg,Blue,Brown,,"Atlas the Great, Atlas the Untamed",Crystal Mountain,Action Comics #121,DC Comics,bad
+50,Atom,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,178 cm,68 kg,Blue,Red,Albert Pratt,"Little Superman, the Mighty Mite",-,All American Comics #19,DC Comics,good
+51,Atom,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,DC Comics,good
+52,Atom Girl,38,10,23,28,38,42,Female,null,168 cm,54 kg,Black,Black,Salu Digby,Shrinking Violet,-,Teen Titans/Legion Special #1 (2004),DC Comics,good
+53,Atom II,88,10,33,45,40,60,Male,Human,183 cm,81 kg,Brown,Auburn,Ray Palmer,"The Mighty Mite, the Tiny Titan, the World's Smallest Hero",-,Showcase #34,DC Comics,good
+54,Atom III,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,Red,Adam Cray,-,-,Suicide Squad (Volume 1) #44,DC Comics,good
+55,Atom IV,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,72 kg,Brown,Black,Ryan Choi,-,-,Brave New World #1,DC Comics,good
+56,Aurora,63,10,96,60,74,56,Female,Mutant,180 cm,63 kg,Blue,Black,Jeanne-Marie Beaubier,Sister Beaubier,"Montreal, Quebec, Canada",X-Men #121 (1979),Marvel Comics,good
+57,Azazel,50,11,47,95,100,80,Male,Neyaphem,183 cm,67 kg,Yellow,Black,,"Semihazah, Duma, Keriel, Mastema, Beliar, Gadreel, Beelzebub, Satan","Isla des Demonas, Caribbean Sea",Uncanny X-Men #428 (2003),Marvel Comics,bad
+58,Azrael,63,18,17,20,35,80,Male,Human,0 cm,0 kg,Brown,Black,Michael Washington Lane,Bat-Devil; Bat-Ghost,Gotham City,"Batman #672 (February, 2008)",DC Comics,good
+59,Aztar,Sin dato,98,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Aztar,Spirit of Vengeance,-,More Fun Comics #52 (February 1940),Spectre,good
+60,Bane,88,38,23,56,51,95,Male,Human,203 cm,180 kg,-,-,,-,-,"Batman: Vengeance of Bane #1 (January, 1993)",DC Comics,bad
+61,Banshee,50,10,58,40,63,70,Male,Human,183 cm,77 kg,Green,Strawberry Blond,Sean Cassidy,Death,"Cassidy Keep, Ireland","X-Men #28 (January, 1967)",Marvel Comics,good
+62,Bantam,25,53,23,54,21,56,Male,null,165 cm,54 kg,Brown,Black,Roberto Velasquez,-,-,"Civil War: Front Line #3 (September, 2006)",Marvel Comics,good
+63,Batgirl,88,11,33,40,34,90,Female,Human,170 cm,57 kg,Green,Red,Barbara Gordon,"Oracle, Bluebelle",-,Detective Comics #359,Oracle,good
+64,Batgirl,Sin dato,27,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,Mary Elizabeth Kane,"Bette Kane, Bat-Girl",-,Batman #139,Hawkfire,good
+65,Batgirl III,Sin dato,43,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,Helena Rosa Bertinelli,-,-,-,Huntress,good
+66,Batgirl IV,69,12,27,56,46,100,Female,Human,165 cm,52 kg,Green,Black,Cassandra Cain,"Kasumi, various mundane persona,",League of Assassins (exact base is unknown),Batman: Legends of the Dark Knight #120,DC Comics,good
+67,Batgirl V,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,Charlotte Gage-Radcliffe,-,-,-,Misfit,good
+68,Batgirl VI,75,10,23,28,22,80,Female,null,168 cm,61 kg,Blue,Blond,Stephanie Brown,"Steph, Robin, Marion Todd, Spoiler",-,Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009),Spoiler,good
+69,Batman,81,40,29,55,63,90,Male,Human,178 cm,77 kg,Blue,Black,Terry McGinnis,"Batman II, The Tomorrow Knight, The second Dark Knight, The Dark Knight of Tomorrow, Batman Beyond","Gotham City, 25th Century",Batman Beyond #1,DC Comics,good
+70,Batman,100,26,27,50,47,100,Male,Human,188 cm,95 kg,blue,black,Bruce Wayne,"Insider, Matches Malone","Crest Hill, Bristol Township; Gotham County",Detective Comics #27,DC Comics,good
+71,Batman II,88,11,33,28,36,100,Male,Human,178 cm,79 kg,Blue,Black,Dick Grayson,Dick Grayson,-,-,Nightwing,good
+72,Battlestar,50,53,35,74,48,74,Male,null,198 cm,133 kg,Brown,Black,Lemar Hoskins,Bucky,"Chicago, Illinois",Captain America #323 (1986); (as Bucky),Marvel Comics,good
+73,Batwoman V,81,8,29,25,27,80,Female,Human,178 cm,0 kg,Green,Red,Katherine Rebecca Kane,-,-,"52 #7 (June, 2006)",DC Comics,good
+74,Beak,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,175 cm,63 kg,Black,White,Barnell Bohusk,Blackwing,"Cheverly, Maryland",-,Marvel Comics,good
+75,Beast,94,48,38,60,43,85,Male,Mutant,180 cm,181 kg,Blue,Blue,Henry Philip McCoy,"Dr. McCoy, Hanko, Kreature, Mutate #666, Magilla Gorilla, Golden Armed Boy","Dunfee, Illinois","X-MEN Vol. 1 #1, (in furry ape form) AMAZING ADVENTURES #11, (in current feline form) NEW X-MEN Vol. 1 #114",Marvel Comics,good
+76,Beast Boy,50,28,50,70,79,40,Male,Human,173 cm,68 kg,Green,Green,Garfield Mark Logan,"Changeling, Beast-Brat, Green Jeans, Salad-head, Sprout, Tork, Craig Logan",-,"Doom Patrol #99 (November, 1965)",DC Comics,good
+77,Beetle,Sin dato,54,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,bad
+78,Ben 10,10,7,8,10,90,40,Male,null,0 cm,0 kg,-,-,Benjamin Kirby Tennyson,Ben Ten,-,Ben 10 S01E01,DC Comics,good
+79,Beta Ray Bill,63,80,35,95,100,84,Male,null,201 cm,216 kg,-,No Hair,Beta Ray Bill (translation of his Korbinite name),"Beta Ray Thor, Simon Walters",Burning Galaxy,Thor #337,Marvel Comics,good
+80,Beyonder,100,100,100,100,100,84,Male,God / Eternal,0 cm,0 kg,-,-,,"Ataxi, The Beyond Realm, Frank, Goblin Force, Goblin King, Goblyn King, Goblin Queen, The One From Beyond, God, Kosmos, Maker",Created in the Beyond,Marvel Super-Heroes Secret Wars #1,Marvel Comics,good
+81,Big Barda,88,100,79,100,100,100,Female,New God,188 cm,135 kg,Blue,Black,Barda Free,"Barda, the Strongest Woman in the World",-,Mister Miracle (Volume 1) #4,DC Comics,bad
+82,Big Daddy,38,10,12,32,22,64,Male,null,0 cm,0 kg,-,-,Damon Macready,-,-,Kick-Ass #4,Icon Comics,good
+83,Big Man,75,12,23,28,19,70,Male,null,165 cm,71 kg,Blue,Brown,Frederick Foswell,Patch,-,Amazing Spider-Man # 10 (1964),Marvel Comics,bad
+84,Bill Harken,63,36,33,60,27,40,Male,Alpha,0 cm,0 kg,-,-,,-,-,-,SyFy,good
+85,Billy Kincaid,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Billy Kincaid,-,-,Spawn #5 (October 1992),Image Comics,bad
+86,Binary,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,180 cm,54 kg,Blue,Blond,Carol Danvers,"Ms. Marvel, Binary","Boston, Massachusetts","(as Carol Danvers) MARVEL SUPER HEROES #13, (as Ms. Marvel) MS. MARVEL #1, (as Binary) X-MEN # 164, AVENGERS Vol. 3, # 4",Captain Marvel,good
+87,Bionic Woman,56,37,33,40,20,40,Female,Cyborg,0 cm,0 kg,Blue,Black,Jamie Sommers,Clarissa Whyte,-,-,,good
+88,Bird-Brain,25,10,35,28,21,42,-,null,0 cm,0 kg,-,-,,Bird-Boy,-,"The New Mutants #56 (October, 1987)",Marvel Comics,good
+89,Bird-Man,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,0 cm,0 kg,-,-,Henry Hawk,-,-,"Daredevil #10 (October, 1965)",Marvel Comics,bad
+90,Bird-Man II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,0 cm,0 kg,-,-,Achille DiBacco,-,"The Bar with No Name, Medina County, Ohio","Daredevil #157 (March, 1979)",Marvel Comics,bad
+91,Birdman,Sin dato,35,Sin dato,Sin dato,Sin dato,Sin dato,Male,God / Eternal,0 cm,0 kg,-,-,Ray Randal,"Bird-Man, Harvey Birdman, Ray Randal, Harvey Birdman Attorney at Law, Harry, Henry, Birdbath, Bootyliciuos",-,Birdman and the Galaxy Trio (1967),Hanna-Barbera,good
+92,Bishop,63,14,23,75,100,65,Male,Mutant,198 cm,124 kg,Brown,No Hair,Lucas Bishop,Archbishop,A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth,"Uncanny X-Men #282 (November, 1991)",Marvel Comics,good
+93,Bizarro,38,95,100,100,100,85,Male,Bizarro,191 cm,155 kg,Black,Black,Bizarro,-,-,Superboy Vol. 1 #68 (1958),DC Comics,neutral
+94,Black Abbott,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,Red,Black,,Lord Abbott,-,Marvel Team Up #146 (1984),Marvel Comics,bad
+95,Black Adam,88,100,92,100,100,56,Male,null,191 cm,113 kg,Brown,Black,Teth-Adam,"Hassan Bari, Theo Adam, Mighty Adam, Khem-Adam","Kahndaq, Egypt","Marvel Family #1 (December, 1945)",DC Comics,bad
+96,Black Bolt,75,67,100,84,100,56,Male,Inhuman,188 cm,95 kg,Blue,Black,Blackagar Boltagon,-,"Attilan, Atlantic Ocean","Fantastic Four #45 (December, 1965)",Marvel Comics,good
+97,Black Canary,63,8,33,20,52,80,Female,Metahuman,170 cm,59 kg,Blue,Blond,Laurel Lance,Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow,-,Justice League of America (Volume 1) #75,DC Comics,good
+98,Black Canary,63,8,33,15,45,80,Female,Human,165 cm,58 kg,Blue,Blond,Dinah Drake Lance,-,-,"Flash Comics #86 (August, 1947)",DC Comics,good
+99,Black Cat,75,16,33,10,23,70,Female,Human,178 cm,54 kg,Green,Blond,Felicia Hardy,Felicity Harmon,"Queens, New York","Amazing Spider-Man #194 (July, 1979)",Marvel Comics,good
+100,Black Flash,44,10,100,80,100,30,Male,God / Eternal,0 cm,0 kg,-,-,,"Barry Allen, Flashback, Slow Lightning, Black Racer, Death Flash, God of Death",-,Flash Vol 2 #138,DC Comics,neutral
+101,Black Goliath,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+102,Black Knight III,63,10,8,70,43,70,Male,Human,183 cm,86 kg,Brown,Brown,Dane Whitman,"The Pendragon, Gann Josin, Eobar Garrington","Gloucester, Massachusetts",Avengers #47 (1967),Marvel Comics,good
+103,Black Lightning,50,11,53,28,70,75,Male,null,185 cm,90 kg,Brown,No Hair,Jefferson Pierce,-,-,Black Lightning #1 (April 1977),DC Comics,good
+104,Black Mamba,75,10,35,42,88,65,Female,null,170 cm,52 kg,Green,Black,Tanya Sealy,Tanya Sweet,"Chicago, Illinois",Marvel Two-In-One #64,Marvel Comics,bad
+105,Black Manta,75,28,50,60,76,85,Male,Human,188 cm,92 kg,Black,No Hair,David,"Devil Ray, Scourge of the Seven Seas, Yellow Lantern",-,"Aquaman #35 (August, 1967)",DC Comics,bad
+106,Black Panther,88,16,30,60,41,100,Male,Human,183 cm,90 kg,Brown,Black,T'Challa,"Mr. Okonkwo, The Man Without Fear, Luke Charles, Black Leopard, the Client, Coal Tiger, has impersonated Daredevil and others on occasion","Wakanda, Africa",Fantastic Four Vol. 1 #52 (1966),Marvel Comics,good
+107,Black Widow,75,13,33,30,36,100,Female,Human,170 cm,59 kg,Green,Auburn,Natasha Romanoff,"Yelena Belova, Natasha Romanoff, Natasha, Tasha, Madame Natasha, Nancy Rushman, Laura Matthers, Nadine Roman, ""Oktober"", Black Pearl, Ebon Flame",-,Tales of Suspense #52,Marvel Comics,good
+108,Black Widow II,Sin dato,48,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,170 cm,61 kg,Blue,Blond,Yelena Belova,-,-,-,Marvel Comics,good
+109,Blackout,63,32,45,80,45,65,Male,Demon,191 cm,104 kg,Red,White,,-,-,"Ghost Rider Vol 3 #2 (June, 1990)",Marvel Comics,bad
+110,Blackwing,38,10,35,32,20,56,Male,null,185 cm,86 kg,Blue,Black,Joseph Manfredi,"Blackwing, Joe Manfredi, Joe Silvermane, Guiseppi Manfredi",Professional Criminal,"Daredevil #118 (February, 1975)",Marvel Comics,bad
+111,Blackwulf,50,28,8,30,69,25,Male,Alien,188 cm,88 kg,Red,White,Lucian,"Pelops, Black Wolf",Armechadon,"Thunderstrike #6 (March, 1994)",Marvel Comics,-
+112,Blade,63,28,38,50,40,90,Male,Vampire,188 cm,97 kg,Brown,Black,Eric Brooks,"Switchblade, Frank Blade, Daywalker","Soho, London,England",Tomb of Dracula Vol. 1 #10 (1973),Marvel Comics,good
+113,Blaquesmith,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,-,null,0 cm,0 kg,Black,No Hair,-,-,-,-,Vertigo II,good
+114,Bling!,69,14,12,90,52,28,Female,null,168 cm,68 kg,-,-,Roxanne Washington,-,-,X-Men #171 (2005),Marvel Comics,good
+115,Blink,50,8,20,28,77,64,Female,Mutant,165 cm,56 kg,Green,Magenta,Clarice Ferguson,-,Bahamas,"Uncanny X-Men #317 (October, 1994)",Marvel Comics,good
+116,Blizzard,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,Brown,Gregor Shapanka,Jack Frost,-,Tales of Suspense #45,Marvel Comics,bad
+117,Blizzard,Sin dato,72,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,bad
+118,Blizzard II,38,10,27,42,47,56,Male,null,175 cm,77 kg,Brown,Brown,Donald Gill,-,"Newark, Delaware",Iron Man #223 (1987),Marvel Comics,bad
+119,Blob,10,83,23,95,28,72,Male,null,178 cm,230 kg,Brown,Brown,Frederick J. Dukes,-,"Lubbock, Texas",X-Men #3 (1964),Marvel Comics,bad
+120,Bloodaxe,63,80,33,80,100,84,Female,Human,218 cm,495 kg,Blue,Brown,Jackie Lukus,-,-,(as Jackie Lukus) Thor #392 (as Bloodaxe) Thor #449,Marvel Comics,bad
+121,Bloodhawk,50,10,50,80,80,64,Male,Mutant,0 cm,0 kg,Black,No Hair,Lemuel Krug,Lemuel Halcon,-,X-Men (2099) #1,Marvel Comics,good
+122,Bloodwraith,Sin dato,72,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,30.5 meters,0 kg,White,No Hair,Sean Dolan,"Black Wraith, Blood Wraith",-,(Dolan) Black Knight #2 (1990); (Bloodwraith) Avengers Annual #22 (1993),Marvel Comics,bad
+123,Blue Beetle,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,Blue,Brown,Daniel Garrett,Daniel Garret (spelling variation),-,Mystery Men Comics #1,DC Comics,good
+124,Blue Beetle,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,DC Comics,good
+125,Blue Beetle II,Sin dato,45,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,183 cm,86 kg,Blue,Brown,Theodore Kord,-,"Chicago, Illinois",CAPTAIN ATOM Vol. 1 #83 (1966) (Published by Charlton Comics),DC Comics,good
+126,Blue Beetle III,50,34,58,80,100,30,Male,Human,0 cm,0 kg,Brown,Black,Jaime Reyes,Scooter,Presumed to be El Paso,Infinite Crisis #3 (2006),DC Comics,good
+127,Boba Fett,63,10,38,36,68,70,Male,Human / Clone,183 cm,0 kg,Brown,Black,,"Teff, Sava Brek Madak, Jaster Mereel, Mandalore, Mand'alor",Kamino,-,George Lucas,bad
+128,Bolt,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+129,Bomb Queen,Sin dato,73,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,Bomb Queen (2006) #1,Image Comics,bad
+130,Boom-Boom,38,10,12,42,57,64,Female,Mutant,165 cm,55 kg,Blue,Blond,Tabitha Smith,"Time Bomb, Boomer, Meltdown, Tabby, Firecracker, Mutate #35, Nancy Forrester",-,Secret Wars II #5,Meltdown,good
+131,Boomer,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+132,Booster Gold,69,85,42,70,100,40,Male,Human,196 cm,97 kg,Blue,Blond,Michael Jon Carter,"Bharjwarj, Bloodspot, Boosteroo, Booster, the Boy Wonder, Buster, Deathstroke, Goldstar, Greatest Hero You've Never Heard Of, Guardian of the Multiverse, Jesus Alvarez, Kid, Killer Moth, The King, Loser Gold, Major Idiot, Man of Gold, Michael Carter, Blac","Gotham City, 25th Century",Booster Gold #1,DC Comics,good
+133,Box,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Roger Bochs,Omega,-,-,Marvel Comics,good
+134,Box III,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,-,null,193 cm,110 kg,Blue,Blond,Dr. Walter Langowski,"Box III, Wanda",British Columbia,First appearance unknown,Marvel Comics,good
+135,Box IV,50,75,23,28,11,56,-,null,0 cm,0 kg,Brown,Brown / Black,Madison Jeffries,"Gemini, Jack-In-The-Box",Place of birth unknown,Alpha Flight #16,Gemini V,good
+136,Brainiac,100,95,63,90,60,75,Male,Android,198 cm,135 kg,Green,No Hair,Vril Dox,Milton Fine,-,Action Comics #242 (July 1958),DC Comics,bad
+137,Brainiac 5,100,10,23,28,60,32,Male,null,170 cm,61 kg,Green,Blond,Querl Dox,-,-,"Brainiac 5's primary invention is his personal force-shield generator. Brainiac 5 re-discovered the technical process behind original Brainiac's force-shield belt, which is capable of generating a virtually impervious field of protection. The belt must be",DC Comics,good
+138,Brother Voodoo,Sin dato,65,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,183 cm,99 kg,Brown,Brown / White,Jericho Drumm,"Doctor Voodoo, Sorcerer Supreme","Port-au-Prince, Haiti","Strange Tales #169 (September, 1973)",Marvel Comics,good
+139,Brundlefly,69,32,25,40,27,15,Male,Mutant,193 cm,0 kg,-,-,Seth Brundle,The Fly,-,The Fly (1986),,-
+140,Buffy,63,28,42,70,48,60,Female,Human,157 cm,52 kg,Green,Blond,Buffy Anne Summers,"Anne, The Chosen One, The Vampire Slayer, The Slayer, Buff, B, The Buffster, Belinda, Joan",-,Dark Horse Presents 1998 Annual,Dark Horse Comics,good
+141,Bullseye,50,11,25,70,20,70,Male,Human,183 cm,90 kg,blue,blond,Lester,"Benjamin Poindexter, Daredevil, Punisher, Bullseye, Hawkeye, pitcher",-,"Daredevil #131 (March, 1976)",Marvel Comics,bad
+142,Bumblebee,63,28,25,10,47,35,Female,Human,170 cm,59 kg,Brown,Black,Karen Beecher,-,-,Teen Titans #45,DC Comics,good
+143,Bumbleboy,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,New X-Men #153,Marvel Comics,good
+144,Bushido,38,10,8,10,19,70,Male,Human,0 cm,0 kg,-,-,Ryuko Orsono,-,-,Titans: Secret Files & Origins #2,DC Comics,good
+145,Cable,88,48,23,56,100,80,Male,Mutant,203 cm,158 kg,Blue,White,Nathan Summers,"Chosen One, Soldier X, Nathan Dayspring, Askani'son, Nathan Dayspring Summers, Nathan Winters, The Traveller, The Saviour",Unrevealed location in the 20th Century United States,New Mutants #86 (as Cable),Marvel Comics,good
+146,Callisto,63,53,23,42,52,85,Female,null,175 cm,74 kg,Blue,Black,Callisto,-,-,X-MEN (first series) #169,Marvel Comics,bad
+147,Cameron Hicks,50,10,23,28,51,70,Male,Alpha,0 cm,0 kg,-,-,,-,-,-,SyFy,good
+148,Cannonball,50,28,67,99,94,56,Male,null,183 cm,81 kg,Blue,Blond,Samuel Zachery Guthrie,"Formerly Samson Guthry, Sam Guthrie, Jet-Ass","Cumberland County, Kentucky",Marvel Graphic Novel #4 (1982),Marvel Comics,good
+149,Captain America,69,19,38,55,60,100,Male,Human,188 cm,108 kg,blue,blond,Steve Rogers,"Nomad, The Captain","Manhattan, New York City, New York",Captain America Comics #1 (March 1941),Marvel Comics,good
+150,Captain Atom,81,93,83,90,100,80,Male,Human / Radiation,193 cm,90 kg,Blue,Silver,Nathaniel Adam,"Monarch, Allen Adam, Cameron Scott",-,Captain Atom #1,DC Comics,good
+151,Captain Britain,75,77,50,60,31,80,Male,Human,198 cm,116 kg,Blue,Blond,Brian Braddock,"Britannic, Black Bishop, Jungle Man, King of Otherworld, Merlinson","Braddock Manor, England","Captain Britain #1 (October, 1976)",Marvel Comics,good
+152,Captain Cold,50,10,17,20,28,20,Male,Human,0 cm,0 kg,Brown,Brown,Leonard Snart,"Citizen Cold, Kid Kold, Len Snart, Leonard Snart, Leonards Wynters, The Man Who Mastered Absolute Zero",-,"Flash Vol 4 #6 (April, 2012)",DC Comics,neutral
+153,Captain Epic,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,188 cm,0 kg,Blue,Brown,,-,Canada,World War II,Team Epic TV,good
+154,Captain Hindsight,25,10,83,30,10,20,Male,Human,0 cm,0 kg,-,Black,Jack Brolin,-,-,"South Park S14 E11 ""Coon 2: Hindsight""",South Park,good
+155,Captain Mar-vell,Sin dato,80,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,188 cm,108 kg,Blue,Blond,Mar-Vell,"Captain Marvel, Dr. Walter Lawson",The city of Rad-Nam on the planet Kree-Lar in the Kree Galaxy (Greater Magellanic Cloud),MARVEL SUPERHEROES #18,Marvel Comics,good
+156,Captain Marvel,88,100,88,95,100,75,Male,Human,193 cm,101 kg,Blue,Black,Billy Batson,"The World's Mightiest Mortal, The Big Red Cheese, Captain Thunder, Shazam","Fawcett City, United States",Whiz Comics no. 2 (1940),DC Comics,good
+157,Captain Marvel,84,88,71,95,100,90,Female,Human-Kree,180 cm,74 kg,Blue,Blond,Carol Danvers,"Ace, Binary, Lady Marvel, Warbird, others used during her espionage career","Boston, Massachusetts",Ms. Marvel #1,Binary,good
+158,Captain Marvel II,75,81,27,90,34,56,Male,Human,175 cm,74 kg,Blue,Black,Frederick Christopher Freeman,"Captain Marvel Jr., CM3",-,"Current incarnation: (As Freddy Freeman) The Power of Shazam #3 (May, 1995)",DC Comics,good
+159,Captain Midnight,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,0 cm,0 kg,-,-,,"Major Midnight, Red, Space-Sovereign, The Skyway Sovereign, The Sky-Lord, The Lord of the Overworld, The Space Sentinel, Jim Albright",-,-,Dark Horse Comics,good
+160,Captain Planet,50,88,75,80,100,60,Male,God / Eternal,0 cm,0 kg,Red,Green,,"The Captain, CP, Planet",-,Captain Planet and the Planeteers (TV Series),Marvel Comics,good
+161,Captain Universe,Sin dato,92,Sin dato,Sin dato,Sin dato,Sin dato,-,God / Eternal,0 cm,0 kg,-,-,,"Guardian of Eternity, The Avenging Angel, The Hero That Could Be You",-,"Micronauts #8 (August, 1979)",Marvel Comics,good
+162,Carnage,63,63,70,84,88,90,Male,Symbiote,185 cm,86 kg,Green,Red,Cletus Kasady,"Mass Carnage, 999th",-,"Amazing Spider-Man #344 (February, 1991)",Marvel Comics,bad
+163,Cat,Sin dato,90,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,173 cm,61 kg,Blue,Blond,Shirlee Bryant,-,"Chicago, Illinois",The Cat #1,Marvel Comics,good
+164,Cat II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+165,Catwoman,69,11,33,28,27,85,Female,Human,175 cm,61 kg,Green,Black,Selina Kyle,"The Cat, Irena Dubrovna, Elva Barr, Sadie Kelowski, Madame Moderne, Marguerite Tone",Gotham City,Detective Comics #569,DC Comics,good
+166,Cecilia Reyes,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,-,null,170 cm,62 kg,Brown,Brown,Dr. Cecilia Reyes,-,Place of birth unknown,X-Men #65 (1997),Marvel Comics,good
+167,Century,88,80,53,64,100,100,Male,Alien,201 cm,97 kg,White,White,,-,-,"Force Works #1 (July, 1994)",Marvel Comics,good
+168,Cerebra,Sin dato,57,Sin dato,Sin dato,Sin dato,Sin dato,Female,Mutant,0 cm,0 kg,-,-,Shakti Haddad,-,-,"X-Men 2099 #1 (October, 1993)",Marvel Comics,good
+169,Chamber,50,10,20,80,57,64,Male,Mutant,175 cm,63 kg,Brown,Brown,Jonothon Evan Starsmore,"Decibel, Jono, Jono Hex",United Kingdom,"Generation X #1 (November, 1994)",Marvel Comics,good
+170,Chameleon,88,10,12,28,28,28,Male,null,0 cm,0 kg,-,-,Dmitri Anatoly Smerdyakov Kravinoff,"Dr. Ashley Kafka, Dr. Turner, J. Jonah Jameson, Torpedo, Rick Jones, Dr. Henry Pym, Peter Parker, Captain George Stacy, Dr. Robert Bruce Banner, General",Russia,Amazing Spider-Man #1,DC Comics,bad
+171,Changeling,63,10,23,42,64,64,Male,null,180 cm,81 kg,Brown,Black,Kevin Sidney,"Professor X, Professor Charles Xavier",-,"Uncanny X-Men #35 (August, 1967)",Marvel Comics,bad
+172,Cheetah,38,8,42,20,32,70,Female,Human,163 cm,50 kg,Green,Blond,Priscilla Rich,"Kay Carlton, The Cheetah",-,Wonder Woman Vol1 #6 (Fall 1943),DC Comics,bad
+173,Cheetah II,38,20,42,20,39,60,Female,Human,170 cm,55 kg,Green,Brown,Deborah Domaine,"Debbi, The Cheetah",-,Wonder Woman Vol1 #274 (Dec 1980),DC Comics,bad
+174,Cheetah III,88,100,88,80,78,95,Female,Human,175 cm,54 kg,Brown,Brown,Barbara Minerva,"Barbara Minerva, Bride of Urzkartaga, Priscilla Rich, Deborah Domaine, Sabrina Ballesteros",-,Wonder Woman Vol2 #7 (Sept 1987),DC Comics,bad
+175,Chromos,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,185 cm,86 kg,Brown,Red / Grey,Bernard Embers,-,"London, England",Team Epic Episode 101,Team Epic TV,bad
+176,Chuck Norris,50,80,47,56,42,99,Male,null,178 cm,0 kg,-,-,Carlos Ray Norris,Chuck,"Ryan, Oklahoma, United States",-,null,good
+177,Citizen Steel,50,95,33,100,23,60,Male,Human,183 cm,170 kg,Green,Red,Nathan Heywood,"Buckeye, Uncle Nate, Uncle Nathan",-,"Justice Society of America Vol 3 #2 (March, 2007)",DC Comics,good
+178,Claire Bennet,38,9,12,100,90,28,Female,null,0 cm,0 kg,Blue,Blond,Claire Bennet,"Vivian Lewis, Claire Butler",-,Heroes S01E01,NBC - Heroes,good
+179,Clea,Sin dato,39,Sin dato,Sin dato,Sin dato,Sin dato,-,null,0 cm,0 kg,-,White,Clea,-,The Dark Dimension,-,Marvel Comics,good
+180,Cloak,63,10,47,64,100,56,Male,null,226 cm,70 kg,brown,black,Tyrone Johnson,-,"South Boston, Massachusetts",Spectacular Spiderman #64,Marvel Comics,good
+181,Clock King,75,10,17,10,7,40,Male,Human,178 cm,78 kg,Blue,Black,William Tockman,Tempus Fugit,-,"World's Finest #111 (August, 1960)",DC Comics,bad
+182,Cogliostro,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Cain,"Nicholas Cogliostro, Cog, The Count",-,Spawn #9,Image Comics,bad
+183,Colin Wagner,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,Grey,Brown,,-,-,-,HarperCollins,good
+184,Colossal Boy,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,DC Comics,good
+185,Colossus,63,83,33,100,45,80,Male,Mutant,226 cm,225 kg,Silver,Black,Piotr Nikolaievitch Rasputin,"Pete, Peter Nicholas, The Proletarian, Little Brother","Ust-Ordynski Collective, near Lake Baikal, Siberia, Russia","Giant-Size X-Men #1 (May, 1975)",Marvel Comics,good
+186,Copycat,56,10,21,25,54,60,Female,Mutant,183 cm,67 kg,Red,White,Vanessa Carlysle,"Nurse Veronica, Patricia Muggins, Titania, Garrison Kane, Christina Valentino, Domino, Cheryl Marks, Debbie, Marguerite, Amy",-,"New Mutants #98 (February, 1991)",Marvel Comics,neutral
+187,Corsair,Sin dato,16,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,191 cm,79 kg,Brown,Brown,Christopher Summers,-,-,Uncanny X-Men #107,Marvel Comics,good
+188,Cottonmouth,50,10,8,10,27,25,Male,Human,183 cm,99 kg,Brown,Black,Burchell Clemens,Quincy McIver,-,"Captain America #310 (October, 1985)",Marvel Comics,bad
+189,Crimson Crusader,Sin dato,58,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,Blue,Strawberry Blond,Rory Destine,-,"Ravenscroft, England",ClanDestine #1 (1994),Marvel Comics,good
+190,Crimson Dynamo,Sin dato,65,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,180 cm,104 kg,Brown,No Hair,Anton Vanko,Krashni Denamit,-,Tales of Suspense #46 (Oct 1963),Marvel Comics,good
+191,Crystal,63,16,12,14,61,56,Female,Inhuman,168 cm,50 kg,Green,Red,Crystallia Amaquelin,"Crys, Exquisite Elemental",Attilan,Fantastic Four #45 (1965),Marvel Comics,good
+192,Curse,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Phillip Krahn,-,-,Spawn #25,Image Comics,bad
+193,Cy-Gor,Sin dato,96,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,Image Comics,bad
+194,Cyborg,75,53,42,85,71,64,Male,Cyborg,198 cm,173 kg,Brown,Black,Victor Stone,"Cyberion Technis, Omegadrome, Planet Cyberion","New York City, New York","DC Comics Presents #26 (October, 1980)",DC Comics,good
+195,Cyborg Superman,75,93,92,100,100,80,Male,Cyborg,0 cm,0 kg,Blue,Black,Henry Henshaw,"Grandmaster of the Manhunters, Herald of the Anti-Monitor, Alpha-Prime of the Alpha Lanterns",-,"Adventures of Superman #466 (May, 1990)",DC Comics,bad
+196,Cyclops,75,10,23,42,76,80,Male,Mutant,191 cm,88 kg,Brown,Brown,Scott Summers,"Scotty, Cyke, Slim, Fearless Leader, One-Eye, Erik the Red, Slym Dayspring, Mutate 007, Apocalypse","Anchorage, Alaska","X-Men #1 (September, 1963)",Marvel Comics,good
+197,Cypher,Sin dato,44,Sin dato,Sin dato,Sin dato,Sin dato,-,null,175 cm,68 kg,Blue,Blond,Douglas Aaron Ramsey,-,Place of birth unknown,New Mutants (Vol. 1) #13,Marvel Comics,good
+198,Dagger,63,10,35,42,52,70,Female,null,Sin dato,52 kg,Blue,Blond,Tandy Bowen,Lady Light,"Shaker Heights, Ohio",Spectacular Spiderman #64,Marvel Comics,good
+199,Danny Cooper,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,Brown,Blond,,-,-,-,HarperCollins,good
+200,Daphne Powell,38,10,8,10,56,10,Female,null,0 cm,0 kg,-,-,Daphne Powell,-,-,No Ordinary Family S01E01 (2010),ABC Studios,good
+201,Daredevil,75,13,25,35,61,100,Male,Human,183 cm,90 kg,Blue,Red,Matt Murdock,"Matt, Jack Batlin, Kingpin of Crime, Laurent LeVasseur, Michael ""Mike"" Murdock, Scarlet Swashbuckler, Nameless One, Kingpin of Hell's Kitchen, The Man Without Fear, The Guardian Devil, DD, Red, Hornhead, Cooper Peyton, Captain Universe","New York City, New York","Daredevil #1 (April, 1964)",Marvel Comics,good
+202,Darkhawk,50,32,33,70,74,64,Male,Human,185 cm,81 kg,Brown,Brown,Christopher Powell,"Bucket-Head, Edge-Man, Powell","Queens, New York","Darkhawk #1 (March, 1991)",Marvel Comics,good
+203,Darkman,75,14,23,85,12,28,Male,null,0 cm,0 kg,-,-,Peyton Westlake,-,-,"Darkman (August 24, 1990)",Universal Studios,good
+204,Darkseid,88,100,83,100,100,95,Male,New God,267 cm,817 kg,Red,No Hair,Uxas,Dark God,-,Superman's Pal Jimmy Olsen #134 (November 1970),DC Comics,bad
+205,Darkside,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,-,null,0 cm,0 kg,-,-,,-,-,-,null,bad
+206,Darkstar,38,8,35,42,79,64,Female,Mutant,168 cm,56 kg,Brown,Blond,Laynia Petrovna,Tyomni Zvesda,"Minks, USSR","Champions #7 (August, 1976)",Marvel Comics,good
+207,Darth Maul,56,48,50,30,100,100,Male,Dathomirian Zabrak,170 cm,0 kg,Yellow / Red,-,,"Sith, Master Of The Double-Bladed Lightsaber",Dathomir,Star Wars Episode I: The Phantom Menace (1999),George Lucas,bad
+208,Darth Vader,69,48,33,35,100,100,Male,Cyborg,198 cm,135 kg,Yellow,No Hair,Anakin Skywalker,Lord Vader,Tatooine,Star Wars: Episode IV - A New Hope (1977),George Lucas,bad
+209,Dash,25,12,92,60,20,30,Male,Human,122 cm,27 kg,Blue,Blond,Dashiell Robert Parr,"The Fastest Kid on Earth, The Dash",-,"The Incredibles (Movies, 2004)",Dark Horse Comics,good
+210,Data,100,32,21,40,56,50,Male,Android,0 cm,0 kg,Yellow,Brown,Data,B-4,-,-,Star Trek,good
+211,Dazzler,63,10,33,60,100,55,Female,Mutant,173 cm,52 kg,Blue,Blond,Alison Blaire,"Ali, The Disco Dazzler, Songbird, Dazz, Kimberly Schau, Ally","Gardendale, Long Island, New York",X-Men #130 (1980),Marvel Comics,good
+212,Deadman,50,10,33,100,100,42,Male,Human,183 cm,90 kg,Blue,Black,Boston Brand,-,-,"Strange Adventures #205 (October, 1967)",DC Comics,good
+213,Deadpool,69,32,50,100,100,100,Male,Mutant,188 cm,95 kg,Brown,No Hair,Wade Wilson,"Wade Wilson, Jack, Chiyonosake (""the Wolf of the Rice Wine""), Rhodes, Corpus, Lopez, Hobgoblin, Thom Cruz, Peter Parker",Canada,"New Mutants #98 (February, 1991)",Evil Deadpool,neutral
+214,Deadshot,50,10,23,28,55,80,Male,Human,185 cm,91 kg,Brown,Brown,Floyd Lawton,"Man Who Never Misses, Worlds Finest Assassin, Orlando Furioso",-,"Batman #59 (June, 1950)",DC Comics,bad
+215,Deathlok,69,32,30,70,40,60,Male,Cyborg,193 cm,178 kg,Brown,Grey,Luther Manning,Demolisher,-,"Astonishing Tales #25 (August, 1974)",Marvel Comics,good
+216,Deathstroke,75,30,35,100,47,90,Male,Human,193 cm,101 kg,Blue,White,Slade Joseph Wilson,"Slade Wilson, Deathstroke the Terminator, Batman",-,"New Teen Titans #2 (December, 1980)",DC Comics,neutral
+217,Demogoblin,50,48,42,35,67,60,Male,Demon,185 cm,95 kg,Red,No Hair,,Jason Macendale Jr,-,"Web of Spider-Man #86 (March, 1992)",Marvel Comics,bad
+218,Destroyer,50,95,58,98,85,70,Male,null,188 cm,383 kg,-,-,,-,Created in Asgard,Journey into Mystery #118 (1965),Marvel Comics,bad
+219,Diamondback,44,16,23,28,45,60,Male,Human,193 cm,90 kg,Brown,Black,Willis Stryker,-,-,"Luke Cage, Hero for Hire#1 (1972)",Marvel Comics,bad
+220,DL Hawkins,50,12,12,56,48,56,Male,null,0 cm,0 kg,-,-,Daniel Lawrence Hawkins,-,-,Heroes S01E05 - Hiros,NBC - Heroes,good
+221,Doc Samson,75,80,33,80,36,70,Male,Human / Radiation,198 cm,171 kg,Blue,Green,Leonard Samson,-,"Tulsa, Oklahoma","Incredible Hulk #141 (July, 1971)",Marvel Comics,good
+222,Doctor Doom,100,32,20,100,100,84,Male,Human,201 cm,187 kg,Brown,Brown,Victor von Doom,"The Master, Invincible Man","Haasenstadt, Latveria",Fantastic Four #5 (July 1962),Marvel Comics,bad
+223,Doctor Doom II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,201 cm,132 kg,Brown,Brown,Kristoff Vernard,"Victor Von Doom, Dr Doom","Doomstadt, Latveria","Fantastic Four #247 (1982, as Kristoff), Fantastic Four #278 (1985, as Doctor Doom)",Marvel Comics,bad
+224,Doctor Fate,81,16,25,80,100,50,Male,Human,188 cm,89 kg,Blue,Blond,Kent Nelson,Nabu,-,"More Fun Comics #55 (May, 1940)",DC Comics,good
+225,Doctor Octopus,94,48,33,40,53,65,Male,Human,175 cm,110 kg,Brown,Brown,Otto Octavius,"Doctor Octopus, Doc Ock, The Master Planner, The Master Programmer, Peter Benjamin Parker, Superior Spider-Man, Venom, Superior Venom","Schenectady, New York",Amazing Spider-Man #3 (July 1963),Marvel Comics,bad
+226,Doctor Strange,100,10,12,84,100,60,Male,Human,188 cm,81 kg,Grey,Black,Stephen Strange,"Sorcerer Supreme, Master of the Mystic Arts, Stephen Sanders, Captain Universe, Vincent Stevens","Philadelphia, Pennsylvania","Strange Tales #110 (July, 1963)",Marvel Comics,good
+227,Domino,63,10,27,28,49,74,Female,Human,173 cm,54 kg,Blue,Black,Neena Thurman,"Dom, Samantha Wu, Tamara Winter, Elena Vladescu, Jessica Marie Costello, Luisa Mendoza, Beatrice, Christina Elizabeth Alioso, Priscilla Sutherland, Hope Eldridge","Project: Armageddon base, Everglades, Florida","X-Force #8 (March, 1992)",Marvel Comics,good
+228,Donatello,88,14,46,60,58,75,Male,Mutant,0 cm,0 kg,Green,No Hair,,"Don, Donnie",-,Teenage Mutant Ninja Turtles #1,IDW Publishing,good
+229,Donna Troy,Sin dato,89,Sin dato,Sin dato,Sin dato,Sin dato,Female,Amazon,175 cm,63 kg,Blue,Black,Donna Hinckley Stacey Troy,"Donna Troy, Wonder Girl, Darkstar, Wonder Woman, Troia",-,The Brave and the Bold Vol. 1 #60 (1965),DC Comics,good
+230,Doomsday,75,100,67,100,100,90,Male,Alien,244 cm,412 kg,Red,White,Doomsday,The Ultimate Lifeform,Krypton,Superman: The Man of Steel #17 (Nov 1992),DC Comics,bad
+231,Doppelganger,8,63,60,95,69,84,Male,null,196 cm,104 kg,White,No Hair,,"The Spider-Man Doppelganger, Spider-Doppelganger, Mindless One",The Dimension of Manifestations,Infinity War #1 (1992),Marvel Comics,bad
+232,Dormammu,88,95,83,100,100,80,Male,null,185 cm,0 kg,Yellow,No Hair,Dormammu,"The Dread One, Eater of Souls, Lord of Chaos, Lord of Darkness, the Great Enigma, Flyx",Faltine Dimension,Strange Tales #126 (1964),Marvel Comics,bad
+233,Dr Manhattan,88,100,42,100,100,42,Male,Human / Cosmic,0 cm,0 kg,White,No Hair,Jonathan Osterman,"Jon Osterman, Doctor Manhattan",-,"Watchmen #1 (September, 1986)",DC Comics,good
+234,Drax the Destroyer,56,80,25,85,46,65,Male,Human / Altered,193 cm,306 kg,Red,No Hair,Arthur Sampson Douglas,-,"Burbank, California","Iron Man #55 (February, 1973)",Marvel Comics,good
+235,Ego,88,80,83,99,71,28,-,null,0 cm,0 kg,-,-,Ego,The Living Planet,The Black Galaxy,THOR #132,Marvel Comics,bad
+236,Elastigirl,63,32,33,95,52,70,Female,Human,168 cm,56 kg,Brown,Brown,Helen Parr,Mrs Incredible,-,"The Incredibles (Movies, 2004)",Dark Horse Comics,good
+237,Electro,69,10,50,56,67,64,Male,Human,180 cm,74 kg,Blue,Auburn,Maxwell Dillon,-,-,Amazing Spider-Man #9 (1964),Marvel Comics,bad
+238,Elektra,63,11,30,28,59,100,Female,Human,175 cm,59 kg,Blue,Black,Elektra Natchios,Erynys (evil self),-,Daredevil #168,Marvel Comics,good
+239,Elle Bishop,50,8,12,42,63,42,Female,null,0 cm,0 kg,Blue,Blond,,Cindy,-,Heroes S02E05 - Fight or Flight,NBC - Heroes,bad
+240,Elongated Man,75,10,33,90,44,40,Male,null,185 cm,80 kg,Blue,Red,Ralph Dibny,Alvin Burgson; Molder,-,Flash #112 (1960),DC Comics,good
+241,Emma Frost,75,63,35,90,100,42,Female,null,178 cm,65 kg,Blue,Blond,Emma Frost,"Storm, White Queen","Boston, Massachusetts",UNCANNY X-MEN #132,Marvel Comics,good
+242,Enchantress,63,14,25,60,100,40,Female,Human,168 cm,57 kg,Blue,Blond,June Moone,"Anita Soulfeeda, Soulsinger",-,Strange Adventures #187,DC Comics,good
+243,Energy,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,HarperCollins,good
+244,ERG-1,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,DC Comics,good
+245,Ethan Hunt,75,11,29,30,26,95,Male,Human,168 cm,0 kg,Brown,Brown,Ethan Hunt,-,"Madison, Wisconsin, United States of America",-,null,good
+246,Etrigan,50,85,17,100,100,50,Male,Demon,193 cm,203 kg,Red,No Hair,Jason Blood,Demon,Hell,"Demon #1 (September, 1972)",DC Comics,neutral
+247,Evil Deadpool,69,32,50,100,100,100,Male,Mutant,188 cm,95 kg,White,Red,Wade Wilson,Dreadpool,-,"Deadpool Vol 2 #44 (December, 2011)",Deadpool,bad
+248,Evilhawk,50,32,33,70,85,64,Male,Alien,191 cm,106 kg,Red,Black,Dargin Bokk,-,-,"Darkhawk #20 (October, 1992)",Marvel Comics,bad
+249,Exodus,63,81,28,28,100,70,Male,Mutant,183 cm,88 kg,Blue,Black,Bennet du Paris,Paris Bennet,-,"X-Factor #92 (July, 1993)",Marvel Comics,bad
+250,Fabian Cortez,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,-,null,196 cm,96 kg,Blue,Brown,Fabian Cortez,-,Place of birth unknown,X-Men (Vol. 2) #1,Marvel Comics,bad
+251,Falcon,38,13,50,28,22,64,Male,Human,188 cm,108 kg,Brown,Black,Sam Wilson,"Sam Wilson, (formerly) Captain America, Blackbird, Blackwing, Brother Superhero","New York, New York","Captain America #117 (September, 1969)",Marvel Comics,good
+252,Fallen One II,88,85,83,100,100,56,Male,null,0 cm,0 kg,Black,Blue,,-,-,-,Marvel Comics,bad
+253,Faora,88,95,75,100,98,90,Female,Kryptonian,0 cm,0 kg,-,-,Faora Hu-Ul,Katie,-,"Action Comics #471 (May, 1977)",DC Comics,bad
+254,Feral,38,28,45,28,27,70,-,null,175 cm,50 kg,Yellow (without irises),Orange / White,Maria Callasantos,-,Place of birth unknown,NEW MUTANTS #99,Marvel Comics,good
+255,Fighting Spirit,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,Red,Carol Carter,"Yankette, Fighting Yank II",-,-,DC Comics,good
+256,Fin Fang Foom,50,81,23,100,75,70,Male,Kakarantharaian,975 cm,18 tons,Red,No Hair,,He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun (translation),-,-,Marvel Comics,good
+257,Firebird,38,8,40,14,100,42,Female,null,165 cm,56 kg,Brown,Black,Bonita Juarez,"Pajaro Del Fuego, La Espirita, Firemaiden","Buena Vista, New Mexico",INCREDIBLE HULK Vol. 2 #265,Marvel Comics,good
+258,Firelord,38,63,75,90,52,28,-,null,193 cm,99 kg,White,Yellow,Pyreus Kril,Nova Centurion,"Xander, planet in Tranta System, Andromeda Galaxy",THOR Vol. 1 #225,Marvel Comics,good
+259,Firestar,50,8,54,55,71,32,Female,Mutant,173 cm,56 kg,Green,Red,Angelica Jones,"Angel, Anj, Lady Comet",Place of birth unknown,"Uncanny X-Men #193 (May, 1985)",Marvel Comics,good
+260,Firestorm,50,53,58,56,100,42,Male,null,0 cm,0 kg,Brown,Black,Jason Rusch,The Nuclear Man,-,Firestorm (Volume 3) #1,DC Comics,good
+261,Firestorm,38,80,58,80,100,40,Male,Human,188 cm,91 kg,Blue,Auburn,Ronald Raymond,"Ronnie, Roy, Ronald Rockwell, Flamehead",-,"Firestorm #1 (March, 1978)",DC Comics,good
+262,Fixer,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,-,null,0 cm,0 kg,Red,No Hair,Paul Norbert Ebersol,Fixer,"Dayton, Ohio",(as Fixer) STRANGE TALES #141,Marvel Comics,bad
+263,Flash,63,10,100,50,68,32,Male,Human,180 cm,81 kg,Blue,Brown / White,Jay Garrick,"Jay Garrick, Siegfreid the Speedster","Hibbardsville, Kansas",Flash Comics #1 (January 1940),DC Comics,good
+264,Flash Gordon,Sin dato,69,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Steven Gordon,-,-,Flash Gordon #1 (september 1966),null,good
+265,Flash II,88,48,100,60,100,60,Male,Black Racer,183 cm,88 kg,Blue,Blond,Barry Allen,"The Scarlet Speedster, the Fastest Man Alive, the Monarch of Motion, the Sultan of Speed","Fallville, Iowa","Showcase #4 (October, 1956)",Black Racer,good
+266,Flash III,63,10,100,60,100,32,Male,Human,183 cm,86 kg,-,-,Wally West,"The Fastest Man Alive, The Scarlet Speedster; formerly, Kid Flash I","Blue Valley, Nebraska","Flash #110 (January, 1960)",Speed Demon,good
+267,Flash IV,63,10,100,32,100,48,Male,Human,157 cm,52 kg,Yellow,Auburn,Bartholomew Allen II,"Impulse, Kid Flash II",-,(as Impulse) Flash v.2 #91 (June 1994)* (as Kid Flash) Teen Titans v.3 #4 (December 2003),Impulse,good
+268,Forge,63,10,12,28,25,48,-,null,183 cm,81 kg,Brown,Black,,"The Maker, Cheyenne","Unrevealed, presumably in the American West",Uncanny X-Men #184,Marvel Comics,good
+269,Franklin Richards,63,80,50,60,100,50,Male,Mutant,142 cm,45 kg,Blue,Blond,Franklin  Richards,"Franklin Benjamin, Tattletale, Psi-Lord, Ego-Spawn, Avatar","New York, New York",Fantastic Four Annual #6,Marvel Comics,good
+270,Franklin Storm,38,10,1,1,0,10,-,null,188 cm,92 kg,Blue,Grey,Dr. Franklin Storm,Franklin Storm was erroneously believed to be the first Invincible Man,Place of birth unknown,FANTASTIC FOUR #31,Marvel Comics,good
+271,Frenzy,63,53,35,100,38,52,Female,null,211 cm,104 kg,Brown,Black,Joanna Cargill,-,-,X-Factor Vol 1 #4,Marvel Comics,bad
+272,Frigga,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,180 cm,167 kg,Blue,White,Frigga,Fricka,Place of birth unknown,JOURNEY INTO MYSTERY #92,Marvel Comics,good
+273,Galactus,100,100,83,100,100,50,Male,Cosmic Entity,876 cm,16 tons,Black,Black,Galan,"Maker, Devourer of Worlds, Eater-of-Worlds, Ravager of Worlds",(Galan) Taa; (Galactus) the Cosmic Egg,Fantastic Four #48 (March 1966),Marvel Comics,neutral
+274,Gambit,63,10,23,28,55,84,Male,Mutant,185 cm,81 kg,Red,Brown,Remy Etienne LeBeau,"Death, Le Diable Blanc, formerly Robert Lord, Cajun","New Orleans, Louisiana","(as Gambit) Uncanny X-Men #266 (1990), (as Death) X-Men #184 (2006)",Marvel Comics,good
+275,Gamora,75,85,42,85,53,100,Female,Zen-Whoberian,183 cm,77 kg,Yellow,Black,Gamora Zen Whoberi Ben Titan,"The Deadliest Woman In The Universe, The Most Dangerous Woman in the Galaxy","Planet Zen Whoberi, Silican System, Milky Way","Strange Tales #180 (June, 1975)",Marvel Comics,good
+276,Garbage Man,Sin dato,82,Sin dato,Sin dato,Sin dato,Sin dato,Male,Mutant,0 cm,0 kg,-,-,Richard Ethan Morse,Richard Morse,-,Weird Worlds #1 (2011),DC Comics,good
+277,Gary Bell,63,5,8,10,54,10,Male,Alpha,0 cm,0 kg,-,-,Gary Bell,-,-,-,SyFy,good
+278,General Zod,94,100,96,100,100,95,Male,Kryptonian,0 cm,0 kg,Black,Black,Dru-Zod,Dru-Zod (possible first name),Krypton,Action Comics #845,DC Comics,bad
+279,Genesis,Sin dato,68,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,185 cm,86 kg,Blue,Blond,Tyler Dayspring,Tolliver,-,"As Tolliver, mentioned) New Mutants #98 (1991), (as Tolliver, seen) X-Force #5 (1991), (as Genesis) Cable #18 (1994)",Marvel Comics,good
+280,Ghost Rider,50,55,25,100,100,60,Male,Demon,188 cm,99 kg,Red,No Hair,Johnny Blaze,-,"Waukegan, Illinois","Marvel Spotlight #5 (August, 1972)",Marvel Comics,good
+281,Ghost Rider II,Sin dato,70,Sin dato,Sin dato,Sin dato,Sin dato,-,null,0 cm,0 kg,-,-,Daniel Ketch,-,-,Ghost Rider Vol. 2 #1,Marvel Comics,good
+282,Giant-Man,Sin dato,78,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,0 cm,0 kg,-,-,Hank Pym,-,-,-,Ant-Man,good
+283,Giant-Man II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+284,Giganta,81,89,23,85,32,42,Female,null,62.5 meters,630 kg,Green,Red,Doris Zuel,-,-,Wonder Woman (Volume 1) #9 (1944),DC Comics,bad
+285,Gladiator,50,100,100,100,77,70,Male,Strontian,198 cm,268 kg,Blue,Blue,Kallark,"Majestor, Praetor, Captain Universe",-,"X-Men Vol 1 #107 October, 1977",Marvel Comics,neutral
+286,Goblin Queen,75,10,23,28,65,56,Female,null,168 cm,50 kg,Green,Red,Madelyne Jennifer Pryor,"Anodyne, Maddie, Lyne, Red, Madelyne Pryor-Summers","Created in Sinister's Labs, Nebraska",Uncanny X-Men #168,Marvel Comics,bad
+287,Godzilla,44,100,54,100,100,20,-,Kaiju,108.0 meters,"90,000 tons",-,-,Gojira,"Legendary Godzilla, King of the Monsters, Gigantis, Monster Zero-One, God of Destruction, Alpha Predator",-,Godzilla (1954),,bad
+288,Gog,50,34,47,72,39,56,Male,null,0 cm,0 kg,-,-,,"Nephut-Sha, Hassan Kareem",-,Incredible Hulk #257 (1981),DC Comics,bad
+289,Goku,56,100,75,90,100,100,Male,Saiyan,175 cm,62 kg,-,-,Kakarot,"Ultimate Defender, Sayain Monkey, Super Sayain, Z-Fighter, Son-Goku, Lower-Class Sayain, Goku Son",-,Dragon Ball #1,Shueisha,good
+290,Goliath,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Erik Josten,-,-,-,Atlas,good
+291,Goliath,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,0 cm,0 kg,-,-,Clint Barton,-,-,-,Hawkeye,good
+292,Goliath,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,0 cm,0 kg,-,-,Hank Pym,Hank Pym,-,-,Ant-Man,good
+293,Goliath IV,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,183 cm,90 kg,Brown,Black,William Barrett Foster,"Giant-Man, Black Goliath","Watts, Los Angeles, California","(As Foster) Avengers #32 (1966); (as Black Goliath) Luke Cage, Power Man #24 (1975); (as Giant-Man) Marvel Two-in-One #55 (1979); (as Goliath) Thing #1 (2006)",Marvel Comics,good
+294,Gorilla Grodd,81,53,33,70,100,65,Male,Gorilla,198 cm,270 kg,Yellow,Black,Grodd,"William Dawson, King Grodd, Gorilla Grodd, Grodd-Son",-,"Flash #106 (May, 1959)",DC Comics,bad
+295,Granny Goodness,Sin dato,96,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,178 cm,115 kg,Blue,White,,Athena,Apokolips,-,DC Comics,bad
+296,Gravity,50,32,33,40,69,30,Male,Human,178 cm,79 kg,Blue,Brown,Greg Willis,Protector of the Universe,"Sheboygan, Wisconsin","Gravity #1 (August, 2005)",Marvel Comics,good
+297,Greedo,38,10,13,15,31,40,Male,Rodian,170 cm,0 kg,Purple,-,Greedo,-,Rodia,-,George Lucas,bad
+298,Green Arrow,81,12,35,28,39,90,Male,Human,188 cm,88 kg,Green,Blond,Oliver Queen,"The Emerald Archer, Battling Bowman",-,More Fun Comics #73 (November 1941),DC Comics,good
+299,Green Goblin,100,48,38,60,48,50,Male,Human,180 cm,83 kg,Blue,Auburn,Norman Osborn,"Normie, Green Goblin, Goblin Lord, Overlord, the Goblin, ""Gobby"", Scrier, Commander Osborn, Director Osborn, Iron Patriot","Hartford, Connecticut","Amazing Spider-Man #14 (July, 1964)",Marvel Comics,bad
+300,Green Goblin II,75,55,37,50,44,26,Male,null,178 cm,77 kg,Blue,Auburn,Harold Osborn,-,New York City,Amzing Spide-Man #31,Marvel Comics,bad
+301,Green Goblin III,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,183 cm,88 kg,-,-,Barton Hamilton,-,-,As Dr. Barton Hamilton in Amazing Spider-Man #167 as Green Goblin III in Amazing Spider-Man #176,Marvel Comics,good
+302,Green Goblin IV,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,178 cm,79 kg,Green,Brown,Phillip Benjamin Urich,-,-,(As Urich) Web of Spider-Man #125 (1995); (as Green Goblin) Green Goblin #1 (1995),Marvel Comics,good
+303,Groot,75,85,33,70,100,64,Male,Flora Colossus,701 cm,4 tons,Yellow,-,Groot,"The Monster from Planet X; His Divine Majesty King Groot the 23rd, Monarch of Planet X, custodian of the branch worlds, ruler of all the shades, Flora colossus Information-silk",-,"Tales to Astonish #13 (November, 1960)",Marvel Comics,good
+304,Guardian,Sin dato,45,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,0 cm,0 kg,Brown,Black,James Hudson,"Weapon Alpha, Antiguard, Vindicator, Mac, Jimmy","London, Ontario, Canada",X-Men Vol.1  #109 (as Weapon Alpha),Marvel Comics,good
+305,Guy Gardner,38,90,53,64,100,64,Male,Human-Vuldarian,188 cm,95 kg,Blue,Red,Guy Gardner,"Green Lantern, Red Lantern, Warrior","Baltimore, Maryland",Green Lantern Vol 2 #59,DC Comics,good
+306,Hal Jordan,69,90,75,80,100,70,Male,Human,188 cm,90 kg,Brown,Brown,Hal Jordan,"Parallax, Spectre, Green Lantern","Coast City, California",Showcase #22,DC Comics,good
+307,Han Solo,50,10,17,20,43,60,Male,Human,183 cm,79 kg,Brown,Brown,Han Solo,-,Corellia,Star Wars: Episode IV - A New Hope (1977),George Lucas,good
+308,Hancock,63,90,67,100,100,50,Male,Human,188 cm,0 kg,Brown,Black,John Hancock,-,-,-,Sony Pictures,good
+309,Harley Quinn,88,12,33,65,55,80,Female,Human,170 cm,63 kg,Blue,Blond,Harley Quinn,"Harleen Quinzel, Harl, Cupid of Crime, Jane Wisakedjak, Elise Archer, Pumpkin Pooh",-,"Batman: Harley Quinn (October, 1999)",DC Comics,bad
+310,Harry Potter,75,7,21,10,100,50,Male,Human,0 cm,0 kg,Green,Black,Harry James Potter,"Triwizard Champion, Seeker, Quidditch Captain, Leader of Dumbledore's Army, Master of Death",-,Harry Potter and the Philosopher's Stone,J. K. Rowling,good
+311,Havok,63,10,25,60,71,45,Male,Mutant,183 cm,79 kg,Blue,Blond,Alexander Summers,"Mutant X, Goblin Prince","Honolulu, Hawaii",X-MEN #58,Marvel Comics,good
+312,Hawk,38,38,35,95,43,42,Male,null,185 cm,89 kg,Red,Brown,Henry Hall,"Monarch, Extant",-,"Showcase #75 (June, 1968)",DC Comics,good
+313,Hawkeye,56,12,21,10,29,80,Male,Human,191 cm,104 kg,Blue,Blond,Clint Barton,"Ronin, Goliath, Golden Archer, the Marksman, Father Time, Longbow","Waverly, Iowa","Tales of Suspense #57 (September, 1964)",Goliath,good
+314,Hawkeye II,50,6,8,10,24,50,Female,Human,165 cm,57 kg,Blue,Black,Katherine Elizabeth Bishop,Kate Bishop,"New York City, New York","Young Avengers #1 (April, 2005)",Marvel Comics,good
+315,Hawkgirl,50,28,53,99,96,72,Female,null,175 cm,61 kg,Green,Red,Kendra Saunders,"Chay-Ara; Sheila Carr; Lady Celia Penbrook, Kate Manser; Shiera Sanders",-,JSA Secret Files #1 (August 1999),DC Comics,good
+316,Hawkman,Sin dato,66,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,185 cm,88 kg,Blue,Brown,Carter Hall,-,-,FLASH COMICS #1 (January 1940),DC Comics,good
+317,Hawkwoman,Sin dato,96,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,175 cm,54 kg,Green,Red,Shayera Hol,"Shayera Hall, Hawkgirl",-,The Brave and the Bold #34 (February-March 1961),DC Comics,good
+318,Hawkwoman II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,Sharon Parker,-,-,-,DC Comics,good
+319,Hawkwoman III,Sin dato,92,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,170 cm,65 kg,Blue,Red,Shayera Thal,-,-,-,DC Comics,good
+320,Heat Wave,38,10,17,45,27,30,Male,Human,180 cm,81 kg,Blue,No Hair,Mick Rory,Rory Calhoun,-,"Flash #140 (November, 1963)",DC Comics,bad
+321,Hela,63,100,46,100,100,45,Female,Asgardian,213 cm,225 kg,Green,Black,,Goddess of Death,-,Journey into Mystery #102,Marvel Comics,bad
+322,Hellboy,63,53,21,95,73,75,Male,Demon,259 cm,158 kg,Gold,Black,Anung Un Rama,"World Destroyer, The Great Beast",-,"Dime Press #4 (May 1, 1993)",Dark Horse Comics,good
+323,Hellcat,63,11,33,45,46,70,Female,Human,173 cm,61 kg,Blue,Red,Patricia Walker,"Patsy Walker, Patricia Hellstrom, The Cat","Centerville, CA USA","Avengers #144 (February, 1976)",Marvel Comics,good
+324,Hellstorm,Sin dato,56,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,185 cm,81 kg,Red,Red,Daimon Hellstrom,"Antichrist, Black Halo, the Devil, King of Hell, Prince of Lies, Satan, Son of Satan.","Greentown, Massachusetts",(as Hellstorm) West Coast Avengers (second series) #14,Marvel Comics,good
+325,Hercules,63,100,46,85,89,100,Male,Demi-God,196 cm,146 kg,Blue,Brown,Heracles,"Spider-Herc, The Lion of Olympus, The Defender of Olympus, The Scion of Olympus, Prince of Power, Alcaeus, Herakles, Herc, Harry Cleese, Victor Tegler, Agent 74","Thebes, Greece",-,Marvel Comics,good
+326,Hiro Nakamura,Sin dato,15,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Hiro Nakamura,"Jotaro Kujo, Takezo Kensei","Tokyo, Japan",-,NBC - Heroes,good
+327,Hit-Girl,56,7,29,20,27,65,Female,Human,0 cm,0 kg,-,-,Mindy McCready,"Hit Girl, Hitgirl",-,-,Icon Comics,good
+328,Hobgoblin,Sin dato,53,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,180 cm,83 kg,Blue,Grey,Roderick Kingsley,-,-,-,Marvel Comics,bad
+329,Hollow,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,170 cm,0 kg,Blue,Red,Monet St. Croix,"Penace, M, Monet St. Croix, Penny, Yvette",-,Generation X #1 (1994),Marvel Comics,good
+330,Hope Summers,63,10,12,32,93,75,Female,null,168 cm,48 kg,Green,Red,Hope Summers,"Mutant Messiah, Messiah Child, Hub, Throat Slicer, Little Girl, Little Momma",-,X-Men Vol 2 #205 (2008),Marvel Comics,good
+331,Howard the Duck,Sin dato,44,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,79 cm,18 kg,Brown,Yellow,Howard (Last name unrevealed),"Duckman, Iron Duck, Pondhopper, Shang-Op, Cheap Ducktective, Duckboy, Dark Mallard of the Night","New Stork, New Stork, Duckworld",FEAR #19,Marvel Comics,good
+332,Hulk,88,100,63,100,98,85,Male,Human / Radiation,244 cm,630 kg,Green,Green,Bruce Banner,"Annihilator, Captain Universe, Joe Fixit, Mr. Fixit, Mechano, Professor, Jade Jaws, Golly Green Giant","Dayton, Ohio","Incredible Hulk #1 (May, 1962)",Marvel Comics,good
+333,Human Torch,63,11,63,70,87,42,Male,Human / Radiation,178 cm,77 kg,Blue,Blond,Johnny Storm,"Matchstick Johnny, Doug Brown","Glenville, Long Island, New York",Fantastic Four #1 (1961),Marvel Comics,good
+334,Huntress,69,10,23,28,34,95,Female,null,180 cm,59 kg,Blue,Black,Helena Rosa Bertinelli,"Batgirl, Sicilian, Mafia Princess",-,Huntress #1 (April 1989),Batgirl III,good
+335,Husk,63,63,35,78,48,64,Female,Mutant,170 cm,58 kg,Blue,Blond,Paige Elisabeth Guthrie,Hayseed,"Cumberland, Kentucky","Rom Annual #3 (November, 1984)",Marvel Comics,good
+336,Hybrid,63,63,58,75,100,80,Male,Symbiote,175 cm,77 kg,Brown,Black,Scott Washington,"Guardsman Number Six, Terror of Brooklyn, Riot ,Phage , Lasher, Agony","Bedford-Stuyvesant, Brooklyn, New York City",Venom Along Came A Spider #2 (as Hybrid),Marvel Comics,good
+337,Hydro-Man,38,13,25,80,66,50,Male,null,188 cm,119 kg,Brown,Brown,Morris Bench,Morrie,"Bronx, New York","Amazing Spider-Man #212 (January, 1981)",Marvel Comics,bad
+338,Hyperion,88,100,100,95,87,80,Male,Eternal,183 cm,207 kg,Blue,Red,Mark Milton,"Mark Milton, Zhib-Ran, Mr. Kant, Marcus Milton",-,Avengers #85,Marvel Comics,good
+339,Iceman,63,32,53,100,100,64,Male,Mutant,173 cm,65 kg,Brown,Brown,Bobby Drake,"Bobby Drake, Mister Friese, Drake Roberts, Rampage, Frozen One, Iceface","Fort Washington, Long Island, New York",X-Men #1,Marvel Comics,good
+340,Impulse,50,10,100,60,74,60,Male,Human,170 cm,65 kg,Yellow,Auburn,Bartholomew Allen II,"Flash IV, Kid Flash II",-,"Flash Vol 2 #92 (July, 1994)",Flash IV,good
+341,Indiana Jones,69,10,17,30,19,30,Male,Human,183 cm,79 kg,-,-,Indiana Jones,Indy,"Princeton, New Jersey",Raiders of the Lost Ark (1981),George Lucas,good
+342,Indigo,75,63,50,50,100,50,Female,Alien,0 cm,0 kg,-,Purple,Iroque,Indigo-1,-,"Green Lantern Vol 4 #25 (January, 2008)",DC Comics,neutral
+343,Ink,38,28,17,40,73,50,Male,Mutant,180 cm,81 kg,Blue,No Hair,Eric Gitter,-,-,"Young X-Men #1 (May, 2008)",Marvel Comics,good
+344,Invisible Woman,88,10,27,85,93,56,Female,Human / Radiation,168 cm,54 kg,blue,Blond,Susan Storm Richards,Invisible Girl,"Glenville, Long Island, New York",FANTASTIC FOUR #1,Marvel Comics,good
+345,Iron Fist,75,55,33,50,95,100,Male,Human,180 cm,79 kg,Blue,Blond,Danny Rand,"Daredevil, Daniel Thomas Rand, the Living Weapon, Young Dragon, Danny Rand",-,Marvel Premiere #15 (May 1974),Marvel Comics,good
+346,Iron Man,100,85,58,85,100,64,Male,Human,198 cm,191 kg,Blue,Black,Tony Stark,"Iron Knight, Hogan Potts, Spare Parts Man, Cobalt Man II, Crimson Dynamo, Ironman","Long Island, New York","Tales of Suspence #39 (March, 1963)",Marvel Comics,good
+347,Iron Monger,88,63,25,90,57,56,Male,null,0 cm,2 tons,Blue,No Hair,Obadiah Stane,-,-,-,Marvel Comics,bad
+348,Isis,75,48,75,46,50,56,Female,null,0 cm,0 kg,-,-,Adrianna Tomaz,-,-,(as Adrianna) 52 Week Three; (as Isis) 52 Week Twelve,DC Comics,good
+349,Jack Bauer,Sin dato,43,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Kiefer Sutherland,-,"Enola, Pennsylvania",24: Season 1,null,good
+350,Jack of Hearts,63,55,100,30,77,30,Male,Human,155 cm,79 kg,Blue / White,Brown,Jonathan Hart,-,"New Haven, Connecticut","Deadly Hands of Kung Fu #22 (March, 1976)",Marvel Comics,good
+351,Jack-Jack,6,34,67,80,100,6,Male,Human,71 cm,14 kg,Blue,Brown,Jack-Jack Parr,-,-,"The Incredibles (Movie, 2004)",Dark Horse Comics,good
+352,James Bond,88,13,17,35,25,90,Male,Human,183 cm,0 kg,blue,Blond,James Bond,"007, Commander Bond",-,"Casino Royale, 1953 novel",Titan Books,good
+353,James T. Kirk,69,11,17,30,30,75,Male,Human,178 cm,77 kg,Hazel,Brown,James T. Kirk,"Jim, Captain Kirk","Riverside, Iowa, Earth",Star Trek S01E01: The Man Trap,Star Trek,good
+354,Jar Jar Binks,10,6,33,10,21,15,Male,Gungan,193 cm,0 kg,Yellow,-,Jar Jar Binks,-,Naboo,-,George Lucas,good
+355,Jason Bourne,88,12,29,30,26,100,Male,Human,0 cm,0 kg,-,-,Jason Bourne,-,-,-,null,good
+356,Jean Grey,94,80,21,20,92,70,Female,Mutant,168 cm,52 kg,Green,Red,Jean Grey,"Redd Dayspring, Marvel Girl",-,"X-Men #1 (September, 1963)",Phoenix,good
+357,Jean-Luc Picard,75,10,17,30,26,65,Male,Human,0 cm,0 kg,-,-,Jean-Luc Picard,Locutus,"La Barre, France, Earth",Star Trek: The Next Generation (1987),Star Trek,good
+358,Jennifer Kale,75,10,35,42,74,72,Female,null,168 cm,55 kg,Blue,Blond,Jennifer Kale,Wendy the Good Little Witch,"Citrusville, Florida",(Adventures into) Fear#11 (1972),Marvel Comics,good
+359,Jesse Quick,Sin dato,42,Sin dato,Sin dato,Sin dato,Sin dato,Female,Human,0 cm,0 kg,-,-,Jesse Chambers,-,-,-,Liberty Belle II,good
+360,Jessica Cruz,56,90,46,50,100,55,Female,Human,0 cm,0 kg,Green,Brown,Jessica Cruz,"Green Lantern, Power Ring",-,"Green Lantern Vol 5 #20 (July, 2013)",DC Comics,good
+361,Jessica Jones,56,44,50,70,18,55,Female,Human,170 cm,56 kg,Brown,Brown,Jessica Campbell Jones Cage,"Knightress, Madeline, Jewel, Power Woman","Forrest Hills, New York City","Amazing Spider-Man #4 (September, 1963)",Power Woman,good
+362,Jessica Sanders,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,NBC - Heroes,good
+363,Jigsaw,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,188 cm,113 kg,Blue,Black,Billy Russo,"Billy the Beaut, Jigsaw Punisher",-,Amazing Spider-Man #162 (Nov. 1976),Marvel Comics,bad
+364,Jim Powell,38,38,23,80,23,20,Male,null,0 cm,0 kg,-,-,Jim Powell,-,-,No Ordinary Family S01E01 (2010),ABC Studios,good
+365,JJ Powell,88,10,8,10,14,10,Male,null,0 cm,0 kg,-,-,JJ Powell,-,-,No Ordinary Family S01E01 (2010),ABC Studios,good
+366,Johann Krauss,Sin dato,30,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Johann Krauss,-,-,B.P.R.D. - Hollow Earth and Other Stories (2003),Dark Horse Comics,good
+367,John Constantine,63,10,8,40,54,65,Male,Human,183 cm,0 kg,Blue,Blond,John Constantine,Hellblazer,-,"Swamp Thing Vol 2 #37 (June, 1985)",DC Comics,good
+368,John Stewart,56,85,42,64,100,65,Male,Human,185 cm,90 kg,Green,Black,John Stewart,Green Lantern,-,Green Lantern Vol 2 #87,DC Comics,good
+369,John Wraith,75,12,35,28,87,80,Male,null,183 cm,88 kg,Brown,Black,John Wraith,"Wraith-Man, Kestrel, Expediter, Guardian, Vindicator",-,"Wolverine Vol 2 #60 (September, 1992)",Marvel Comics,good
+370,Joker,100,10,12,60,43,70,Male,Human,196 cm,86 kg,Green,Green,Jack Napier,"Red Hood I, Clown Prince of Crime, Harlequin of Hate, Jack Napier, Joe Kerr, Mr. J",-,Batman #1 (Spring 1940),DC Comics,bad
+371,Jolt,63,12,27,32,31,42,Female,null,165 cm,49 kg,Blue,Black,Helen Takahama,"Holly Tsuruta, Hallie Shimosato","Ojai, California",Thunderbolts #1 (1997),Marvel Comics,good
+372,Jubilee,56,8,22,20,66,90,Female,Mutant,165 cm,52 kg,Red,Black,Jubilation Lee,Jubes,"Beverly Hills, California","Uncanny X-Men #244 (May, 1989)",Marvel Comics,good
+373,Judge Dredd,75,18,38,50,52,95,Male,Human,188 cm,0 kg,-,-,Joseph Dredd,"The Dead Man, Joe",Mega City One,2000 AD no. 2 (5 March 1977),Rebellion,good
+374,Juggernaut,44,100,42,100,85,70,Male,Human,287 cm,855 kg,Blue,Red,Cain Marko,"Kuurth, Captain Universe","Berkeley, California","X-Men #12 (July, 1965)",Marvel Comics,neutral
+375,Junkpile,50,38,17,90,81,30,Male,Mutant,0 cm,0 kg,-,-,,-,-,"X-Men 2099 #1 (October, 1993)",Marvel Comics,bad
+376,Justice,50,10,33,70,55,30,Male,Human,178 cm,81 kg,Hazel,Brown,Vance Astrovik,"Marvel Boy, Manglin' John Mahoney, Astounding Astrovik, Superhuman Penitentiary Prisoner 344678, ""Super Tights""",-,"Giant-Size Defenders #5 (July, 1975)",Marvel Comics,good
+377,Jyn Erso,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,Human,0 cm,0 kg,Green,Brown,Jyn Erso,-,-,Star Wars : Rogue One (2016),George Lucas,good
+378,K-2SO,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Android,213 cm,0 kg,White,No Hair,,"Kaytoo Esso, Kay-Tuesso",Galactic Empire,Rogue One: A Star Wars Story (2016),George Lucas,good
+379,Kang,100,48,58,70,100,70,Male,null,191 cm,104 kg,Brown,Brown,Nathaniel Richards,"Blue Man, Victor Timely, Blue Totem, Scarlet Centurion, Rama-Tut, King of Kings, Master of Men, Lord of the Seven Suns","Other Earth, 31st century",(As Rama-Tut) Fantastic Four #19 (1963); (as Kang) Avengers #8 (1964),Iron Lad,bad
+380,Kathryn Janeway,75,8,21,25,21,50,Female,Human,0 cm,0 kg,-,-,Kathryn Janeway,-,"Bloomington, Indiana, Earth",-,Star Trek,good
+381,Katniss Everdeen,56,8,21,25,24,55,Female,Human,0 cm,0 kg,-,-,Katniss Everdeen,-,-,-,,good
+382,Kevin 11,25,7,12,14,100,40,Male,Human,0 cm,0 kg,-,Black,Kevin Ethan Levin,"Kevin 11,000, Curtis, Osmosian, Kev, Kevin Ethan, Levin, Ultimate Kevin, Doofus, An Empty Shell, Kevin E. Levin",-,Ben 10 S01,DC Comics,good
+383,Kick-Ass,38,10,23,35,22,56,Male,Human,0 cm,0 kg,Blue,Blond,Dave Lizewski,Kickass,New York City,Kick Ass #1,Icon Comics,good
+384,Kid Flash,25,4,92,42,20,30,Male,Human,0 cm,0 kg,Green,Red,Wallace Rudolph West,Kid Lantern,"Blue Valley, Nebraska","Flash #110 (January, 1960)",DC Comics,good
+385,Kid Flash II,Sin dato,47,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Bartholomew Allen II,-,-,-,Flash IV,good
+386,Killer Croc,19,53,35,90,53,60,Male,Metahuman,244 cm,356 kg,Red,No Hair,Waylon Jones,-,-,"Batman #357 (March, 1983)",DC Comics,bad
+387,Killer Frost,88,10,13,35,59,30,Female,Human,0 cm,0 kg,Blue,Blond,Caitlin Snow,-,-,Fury of Firestorm: The Nuclear Men #19,DC Comics,bad
+388,Kilowog,81,90,53,42,100,80,Male,Bolovaxian,234 cm,324 kg,Red,No Hair,,"Kilo Wog, Green Lantern 674.1, Dark Lantern, The Green Lantern drill sergeant, ""Poozer"", Lantern",Bolovax Vik,"Green Lantern Corps #201 (June, 1986)",DC Comics,good
+389,King Kong,56,100,71,75,47,75,Male,Animal,30.5 meters,"9,000 tons",Yellow,Black,King Kong,"the 8th Wonder of the World, King of Skull Island",Skull Island,King Kong (1933),,good
+390,King Shark,50,88,50,90,86,40,Male,Animal,0 cm,0 kg,Black,No Hair,Nanaue,-,-,Superboy Vol 4 #0,DC Comics,bad
+391,Kingpin,75,18,25,40,13,70,Male,Human,201 cm,203 kg,Blue,No Hair,Wilson Grant Fisk,"The Brain Washer, Harold Howard, Wilbur",New York City area,"Amazing Spider-Man #50 (July, 1967)",Marvel Comics,bad
+392,Klaw,63,38,33,100,62,60,Male,Human,188 cm,97 kg,Red,No Hair,Ulysses Klaw,-,"Vlaardingen, Netherlands","Fantastic Four #53 (August, 1966)",Marvel Comics,bad
+393,Kool-Aid Man,25,18,8,10,9,14,Male,null,0 cm,0 kg,Black,No Hair,,Pitcher Man,-,As Pitcher-Man in 1954,null,good
+394,Kraven II,50,34,23,28,43,85,Male,Human,191 cm,99 kg,Brown,Black,Alyosha Kravinoff,-,-,Spectacular Spider-Man #243 (1997),Marvel Comics,bad
+395,Kraven the Hunter,63,32,35,42,25,85,Male,Human,183 cm,106 kg,Brown,Black,Sergei Kravinoff,"Kraven the Hunter, World's Greatest Hunter, the Grim Hunter","Volgograd (formerly Stalingrad), Russia",The Amazing Spider-Man #15 (1964),Marvel Comics,bad
+396,Krypto,9,80,100,90,82,40,Male,Kryptonian,64 cm,18 kg,Blue,White,Krypto the Superdog,-,-,"Adventure Comics #210 (March, 1955)",DC Comics,good
+397,Kyle Rayner,69,90,50,60,100,60,Male,Human,180 cm,79 kg,Green,Black,Kyle Rayner,"Ion, Kyle Vasquez, Parallax, Torch Bearer, Honor Guard, The Last Green Lantern","North Hollywood, Los Angeles, California",Green Lantern Vol 3 #48,DC Comics,good
+398,Kylo Ren,56,44,33,30,100,70,Male,Human,0 cm,0 kg,-,-,Ben Solo,-,-,Star Wars: Episode VII - The Force Awakens (2015),George Lucas,bad
+399,Lady Bullseye,Sin dato,63,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,Black,,-,-,-,Marvel Comics,bad
+400,Lady Deathstrike,63,28,42,85,48,90,Female,Cyborg,175 cm,58 kg,Brown,Black,Yuriko Oyama,Ana Cortes,"Osaka, Japan",Alpha Flight Vol. 1 #33 (1985),Marvel Comics,bad
+401,Leader,100,10,12,14,59,42,Male,null,178 cm,63 kg,Green,No Hair,Samuel Sterns,-,"Boise, Idaho",-,Marvel Comics,bad
+402,Leech,25,5,12,14,62,14,Male,null,0 cm,0 kg,-,-,,-,-,Uncanny X-Men #179,Marvel Comics,good
+403,Legion,50,100,42,30,100,75,Male,Mutant,175 cm,59 kg,Green / Blue,Black,David Haller,"Jack Wayne, Cyndi, Jemail Karami, Daniel Lucas Haller, Daniel Haller, Rodney, Ian, Lucas, Fanya, Boris, Zachary, Sylvester, God-Mutant",Israel,"New Mutants #25 (March, 1985)",Marvel Comics,good
+404,Leonardo,75,16,50,65,59,80,Male,Mutant,0 cm,0 kg,Blue,No Hair,Leonardo,"Leo, Ghost of the Jungle, Splinter Jr.",-,Teenage Mutant Ninja Turtles #1,IDW Publishing,good
+405,Lex Luthor,100,53,25,65,68,70,Male,Human,188 cm,95 kg,Green,No Hair,Lex Luthor,-,-,Action Comics #23,DC Comics,bad
+406,Light Lass,38,10,35,28,67,42,Female,null,165 cm,54 kg,Blue,Red,Ayla Ranzz,-,-,Teen Titans/Legion Special #1,DC Comics,good
+407,Lightning Lad,38,10,23,28,60,42,Male,null,155 cm,65 kg,Blue,Red,Garth Ranzz,"Lightning Boy, Live Wire",-,Teen Titans/Legion Special #1,DC Comics,good
+408,Lightning Lord,44,10,23,42,66,42,Male,null,191 cm,95 kg,Blue,Red,Mekt Ranzz,-,-,Supergirl and the Legion of Super-Heroes #25 (Feb. 2007),DC Comics,bad
+409,Living Brain,75,53,35,56,31,28,-,null,198 cm,360 kg,Yellow,-,,-,-,Amazing Spider-Man #8 (1964),Marvel Comics,bad
+410,Living Tribunal,100,100,100,100,100,30,-,Cosmic Entity,0 cm,0 kg,Blue,No Hair,,"Living Trinity, Magistrate, High Judge of The Multiverse, Sir",-,Strange Tales #157,Marvel Comics,neutral
+411,Liz Sherman,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,Elizabeth Anne Sherman,-,-,-,Dark Horse Comics,good
+412,Lizard,50,51,27,70,63,56,Male,Human,203 cm,230 kg,Red,No Hair,Curtis Connors,-,"Coral Gables, Florida",Amazing Spider-Man #6,Marvel Comics,bad
+413,Lobo,94,100,54,100,100,85,Male,Czarnian,229 cm,288 kg,Red,Black,Lobo,"The Main Man, The 'Bo, Master Frag, Mister Machete, Popebo; He-Who-Devours-Your-Entrails-And-Thoroughly-Enjoys-It",-,Omega Men # 3,DC Comics,neutral
+414,Loki,88,63,46,85,100,60,Male,Asgardian,193 cm,236 kg,Green,Black,Loki Laufeyson,"God of Mischief, Gem-Keeper, Walter Lawson, Lester, Loren Olsen, Tyfon, Father Williams, Willie, Tso Zhung; has also impersonated hundreds of others.","Jotunheim, Asgard",Journey into Mystery Vol. 1 #85,Marvel Comics,bad
+415,Longshot,50,10,27,10,71,70,Male,Human,188 cm,36 kg,Blue,Blond,,"The Lost Messiah, The Lucky One",-,"Longshot #1 (September, 1985)",Marvel Comics,good
+416,Luke Cage,50,63,29,95,44,70,Male,Human,198 cm,191 kg,Brown,Black,Luke Cage,"Carl Lucas, Power Man, Mark Lucas, Hero for Hire, Ace of Spades","Harlem, New York City",Hero for Hire #1 (1972),Power Man,good
+417,Luke Campbell,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Luke Campbell,-,-,-,NBC - Heroes,bad
+418,Luke Skywalker,69,38,42,25,100,100,Male,Human,168 cm,77 kg,Blue,Blond,Luke Skywalker,"General Skywalker, Master Luke, Jedi",Tatooine,Star Wars: Episode IV - A New Hope (1977),George Lucas,good
+419,Luna,38,6,83,14,53,14,Female,Human,0 cm,0 kg,-,-,Luna Maximoff,-,"Attilan, Blue Area of the Moon",-,Marvel Comics,good
+420,Lyja,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,Green,Green,Lyja,"Alicia Masters, Lyja The Lazerfist, Laura Green",-,"Fantastic Four #265 (as Alicia), Fantastic Four #357 (as Lyja)",Marvel Comics,good
+421,Mach-IV,75,36,60,84,60,56,Male,null,180 cm,79 kg,Brown,Brown,Abner Jenkins,"Beetle, MACH-I, MACH-II, MACH-III, Matthew","Baltimore, Maryland",(Beetle) Strange Tales #123 (1964); (MACH-I) Incredible Hulk #449 (1997); (MACH-II) Thunderbolts #37 (2000); (MACH-III) Thunderbolts #57 (2001); (MACH-IV) New Thunderbolts #1 (2005),Marvel Comics,bad
+422,Machine Man,63,32,35,84,51,64,-,null,183 cm,383 kg,Red,Black,"X-51, Aaron Stack","Sir McHinery, Mister Machine.Machine Man","Central City, California",First appearance unknown,Marvel Comics,good
+423,Magneto,88,80,27,84,91,80,Male,Mutant,188 cm,86 kg,Grey,White,Erik Magnus Lensherr,"The Creator, Erik Magnus Lehnsherr, Michael Xavier, White Pilgrim, Erik the RedThe Master of Magnetism","Unrevealed, probably somewhere in Northern Europe",X-MEN Vol. 1 #1,Marvel Comics,bad
+424,Magog,50,48,23,64,66,72,Male,null,0 cm,0 kg,Blue,Blond,David Reid,-,-,-,DC Comics,good
+425,Magus,88,100,70,99,100,74,Male,null,183 cm,0 kg,Black,-,,Warlock's Father,Kvch (Technarchy�s home planet),New Mutants #18 (1984),Marvel Comics,bad
+426,Man of Miracles,100,100,100,100,100,100,-,God / Eternal,0 cm,0 kg,Blue,Silver,,Mother Of Existence,-,Spawn #75,Image Comics,-
+427,Man-Bat,38,18,50,70,33,30,Male,Human,0 cm,0 kg,Brown,Brown,Robert Kirkland Langstrom,Kirk Langstrom,"Chicago, Illinois","Detective Comics #400 (June, 1970)",DC Comics,neutral
+428,Man-Thing,50,32,8,100,100,40,Male,null,213 cm,225 kg,Red,No Hair,Dr. Theodore Sallis,the Vagornus Koth; the Swamp Walker; Mr. Salad; Walking Mulch Heap,-,"Savage Tales #1 (May, 1971)",Marvel Comics,good
+429,Man-Wolf,63,44,35,42,45,70,Male,null,188 cm,90 kg,Brown,Auburn,John Jameson,"Stargod, Vanwolf, Skywolf","New York, New York","AMAZING SPIDER-MAN #1, (as Man-Wolf) AMAZING SPIDER-MAN #124",Marvel Comics,good
+430,Mandarin,100,28,23,28,100,95,Male,Human,188 cm,97 kg,Blue,White,Khan,"Tem Borjigin, Gene Kahn, Master Khan, Zhang Tong, Mandy",China,"Tales of Suspense #50 (February, 1964)",Marvel Comics,bad
+431,Mantis,63,8,33,80,100,80,Female,Human-Kree,168 cm,52 kg,Green,Black,,"Celestial Madonna, Willow, Lorelei, Mandy Celestine, This One (in referring to herself)",Vietnam,Avengers #112,Marvel Comics,good
+432,Martian Manhunter,100,95,92,100,100,85,Male,Martian,201 cm,135 kg,Red,No Hair,J'onn J'onzz,"ohn Jones; J'Onn J'Onzz (alternate spelling); Big Green Buddy; J.J.; Jolly Green Giant; Light to the Light; Manhunter; Manhunter from Mars; Son of Mars; Bronze Wraith, Bloodwynd, many others",-,Detective Comics #225 (1955),DC Comics,good
+433,Marvel Girl,63,85,47,42,100,80,Female,null,170 cm,56 kg,Green,Red,Rachel Anne Summers,"Rachel Grey, formerly Phoenix, Mother Askani, Bright Lady, Aly'zrn Summerset",-,UNCANNY X-MEN #141,Marvel Comics,good
+434,Master Brood,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,183 cm,81 kg,Blue,Black,Currently Colin Wood,Brood,Perhaps England,Team Epic Episode 101,Team Epic TV,good
+435,Master Chief,75,73,35,80,69,100,Male,Human / Altered,213 cm,0 kg,Brown,Brown,John-117,"Blue 1, Sierra 117, Spartan 117, Demon","Elysium City, Eridanus II",-,Microsoft,good
+436,Match,75,95,83,85,100,70,Male,null,0 cm,0 kg,Black,Black,Kent Connor,"Superboy, Superman",-,"Superboy Vol 4 #35 (January, 1997)",DC Comics,bad
+437,Matt Parkman,63,10,12,14,59,56,Male,null,0 cm,0 kg,-,-,Matthew Parkman,-,-,Heroes S01E02 - Don't Look Back,NBC - Heroes,good
+438,Maverick,63,10,12,42,60,85,Male,null,193 cm,110 kg,Blue,Black,Christopher Bradley,"Chris, Bolt",-,X-Men Unlimited #8 (1995),Marvel Comics,good
+439,Maxima,75,90,35,56,81,75,Female,null,180 cm,72 kg,Brown,Red,,"Queen Maxima, Empress of the Almeracian Empire",Almerac,-,DC Comics,bad
+440,Maya Herrera,50,10,12,14,60,14,Female,null,0 cm,0 kg,-,-,Maya Herrera,-,Dominican Republic,-,NBC - Heroes,good
+441,Medusa,75,34,35,70,37,56,Female,Inhuman,180 cm,59 kg,Green,Red,Medusalith Amaquelin Boltagon,"Madam Medusa, Queen Medusa","Island of Attilan, Atlantic Ocean",Fantastic Four Vol. 1 #36 (1965),Marvel Comics,good
+442,Meltdown,38,10,12,42,62,64,Female,null,165 cm,54 kg,Blue,Blond,Tabitha Smith,"Boom-Boom, Boomer, Meltdown, Mutate #35, Time Bomb, Nancy Forrester","Roanoke, Virginia",-,Boom-Boom,good
+443,Mephisto,88,85,35,95,100,42,Male,null,198 cm,140 kg,White,Black,,"Satan; Mephistopheles, Lord of Evil, Prince of Devils, Prince of Lies, Lord of the Lower Depths, Satan, Beelzebub, the Devil, Maya, Lucifer, Nick Scratch, the Friend, Legion, numerous others; impersonated Don Blake, many others",Hell,-,Marvel Comics,bad
+444,Mera,56,62,79,60,92,80,Female,Atlantean,175 cm,72 kg,Blue,Red,Mera,"Queen of Atlantis, Aquawoman, Aquagirl, Water-Woman",-,"Aquaman #11 (October, 1963)",DC Comics,good
+445,Metallo,75,53,23,95,86,64,Male,Android,196 cm,90 kg,Green,Brown,John Corben,-,-,"Superman Vol 2 #1 (January, 1987)",DC Comics,bad
+446,Metamorpho,Sin dato,82,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,185 cm,90 kg,Black,No Hair,Rex Mason,The Element Man,-,Brave and the Bold #57,DC Comics,good
+447,Meteorite,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+448,Metron,88,10,47,56,100,28,Male,null,185 cm,86 kg,Blue,Black,Metron,-,-,"New Gods vol. 1 #1 (February-March, 1971)",DC Comics,good
+449,Micah Sanders,63,8,12,14,57,14,Male,null,0 cm,0 kg,Brown,Black,Micah Sanders,MicahSanders500,-,-,NBC - Heroes,good
+450,Michelangelo,63,14,50,65,59,75,Male,Mutant,0 cm,0 kg,Blue,-,,"Mike, Mikey, Mikester, Michaelangelo",-,-,IDW Publishing,good
+451,Micro Lad,38,28,27,28,44,32,Male,null,183 cm,77 kg,Grey,Brown,Gim Allon,"Colossal Boy (mostly known as Colossal Boy, although he dislikes that name himself)",-,Teen Titans/Legion Special #1 (2004),DC Comics,good
+452,Mimic,63,67,47,56,79,42,Male,null,188 cm,101 kg,Brown,Brown,Calvin Montgomery Rankin,"Cal, Wolverine, Calvin Rankin","Passiac, New Jersey",Uncanny X-Men #19,Marvel Comics,good
+453,Minna Murray,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,Wilhelmina Harker,-,-,-,Wildstorm,good
+454,Misfit,63,32,23,80,91,42,Female,null,0 cm,0 kg,Blue,Red,Charlotte Gage-Radcliffe,Batgirl,-,Birds of Prey #96,Batgirl V,good
+455,Miss Martian,63,85,58,100,100,45,Female,null,178 cm,61 kg,Red,Red,M'gann M'orzz,"Megan Morse; M'Gann M'Orzz (alternate spelling); Martian Girlhunter; Martian Manhunter (Titans Tomorrow alias), Star-Spangled Kid",Mars,"Teen Titans Vol 3 #37 (August, 2006)",DC Comics,good
+456,Mister Fantastic,100,10,18,70,33,64,Male,Human / Radiation,185 cm,81 kg,Brown,Brown,Reed Richards,Mr Fantastic,"Central City, California",FANTASTIC FOUR #1,Marvel Comics,good
+457,Mister Freeze,75,32,12,70,37,28,Male,Human,183 cm,86 kg,-,-,Victor Fries,"Mister Zero, Doctor Zero, Doctor Schimmell",-,Batman #121 (Feb. 1959),DC Comics,bad
+458,Mister Knife,75,10,17,30,13,65,Male,Spartoi,0 cm,0 kg,Blue,Brown,J'son,"Jason of Spartax, Jason of Sparta, Star-Lord, Mr Knife","Spartax, Spartoi Empire, near the Shi'ar Galaxy","Inhumans Vol 3 #2 (July, 2000)",Marvel Comics,bad
+459,Mister Mxyzptlk,100,85,100,100,100,50,Male,God / Eternal,0 cm,0 kg,-,-,Mr. Mxyzptlk,-,-,Superman #30,DC Comics,bad
+460,Mister Sinister,100,48,46,90,100,50,Male,Human / Altered,196 cm,128 kg,Red,Black,Nathaniel Essex,"Sinister, Robert Windsor, Arnold Bocklin, Mike Milbury, Apocalypse, Steven Shaffran, Edmond Atkinson, Nate, Administrator Pearson, Nosferatu, Nathan Milbury, Pale Man","London, England","Uncanny X-Men #221 (September, 1987)",Marvel Comics,bad
+461,Mister Zsasz,88,22,33,28,18,85,Male,Human,0 cm,0 kg,Blue,Blond,Victor Zsasz,Mr Zsasz,-,-,DC Comics,bad
+462,Mockingbird,75,31,38,20,48,95,Female,Human,175 cm,61 kg,Blue,Blond,Barbara Morse,"Barbara Morse-Barton, Roberta Morse, Agent 19, Huntress, Bobbi Van Dyne; once posed as Shooting Star","San Diego, California","Astonishing Tales #6 (June, 1971)",Marvel Comics,good
+463,MODOK,100,18,25,25,79,15,Male,Cyborg,366 cm,338 kg,White,Brownn,George Tarleton,"M.O.D.O.K., Mental Organism Designed Only for Killing",-,Tales of Suspense #93,Marvel Comics,bad
+464,Mogo,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Planet,0 cm,0 kg,-,-,Mogo,-,-,"Green Lantern Vol 2 #188 (May, 1985)",DC Comics,good
+465,Mohinder Suresh,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Mohinder Suresh,-,India,Heroes S01E01 - Genesis,NBC - Heroes,good
+466,Moloch,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Edgar William Jacobi,"William Edgar Bright, Moloch the Mystic",-,-,DC Comics,bad
+467,Molten Man,50,73,23,84,53,56,Male,null,196 cm,248 kg,Gold,Gold,Mark Raxton,-,-,Amazing Spider-Man #28 (1965),Marvel Comics,bad
+468,Monarch,Sin dato,100,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,193 cm,90 kg,Blue,White,Nathaniel Christopher Adam,"Monarch, Allen Adam, Cameron Scott, Captain Atom",-,"Captain Atom #1 (D.C., March, 1987)",DC Comics,good
+469,Monica Dawson,50,10,35,14,48,90,Female,null,0 cm,0 kg,-,-,Monica Dawson,-,-,Heroes S02E04 - The Kindness of Strangers,NBC - Heroes,good
+470,Moon Knight,50,36,23,42,28,75,Male,Human,188 cm,101 kg,Brown,Brown,Marc Spector,"Jake Lockley, Steven Grant, Yitzak Topol, Fist of Khonshu, Crescent Crusader, Lunar Legionnaire","Chicago, Illinois","Werewolf by Night #32 (August, 1975)",Marvel Comics,good
+471,Moonstone,56,67,47,52,74,80,Female,null,180 cm,59 kg,Blue,Blond,Karla Sofen,"Meteorite,  Kate Sorenson","Van Nuys, California","Captain America Vol. 1 #192 (December, 1975)",Marvel Comics,bad
+472,Morlun,63,60,35,42,74,56,Male,null,188 cm,79 kg,White / Red,Black,Morlun,-,-,Amazing Spider-Man #30 (2001),Marvel Comics,bad
+473,Morph,Sin dato,40,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,178 cm,79 kg,White,No Hair,Kevin Sydney,-,"Pittsburgh, Pennsylvania",Exiles #1,Marvel Comics,good
+474,Moses Magnum,75,28,12,42,55,56,Male,null,175 cm,72 kg,Brown,Black,Moses Magnum,"Magnum Force,",-,Giant-Size Spider-Man #4 (1975),Marvel Comics,bad
+475,Mr Immortal,50,10,8,100,69,30,Male,Mutant,188 cm,70 kg,Blue,Blond,Craig Hollis,-,-,West Coast Avengers Vol 2 #46,Marvel Comics,good
+476,Mr Incredible,50,83,33,95,29,40,Male,Human,201 cm,158 kg,Blue,Blond,Robert Parr,"Mr. I, The Hero's Hero, Bob Parr",-,"The Incredibles (Movies, 2004)",Dark Horse Comics,good
+477,Ms Marvel II,38,63,23,84,11,56,Female,null,173 cm,61 kg,Blue,Red,Sharon Ventura,She-Thing,"Pullman, Washington",-,She-Thing,good
+478,Multiple Man,63,11,23,70,28,62,Male,null,180 cm,70 kg,Blue,Brown,James Arthur,-,"Los Alamos, New Mexico",GIANT-SIZE FANTASTIC FOUR #4,Marvel Comics,good
+479,Mysterio,81,10,17,40,82,70,Male,Human,180 cm,79 kg,Brown,No Hair,Quentin Beck,"Nicholas Macabes, Rudolph Hines, Gerdes, Doctor Ludwig Rinehart","New York, New York",Amazing Spider-Man #13 (1964),Marvel Comics,bad
+480,Mystique,75,12,23,64,64,74,Female,Mutant,178 cm,54 kg,Yellow (without irises),Red / Orange,Raven Darkholme,Mallory Brickman,-,"(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18",Marvel Comics,bad
+481,Namor,69,95,58,70,73,85,Male,Atlantean,188 cm,125 kg,Grey,Black,Namor McKenzie,"Imperius Rex, Dr. G.W. Falton, Sub-Mariner, ""Subby"", Namor the First, Avenging Son, Old Man, Rex, Joe Pierre, Lord of the Seven Seas, the Scion of the Deep, Phoenix",Atlantis,"Motion Picture Funnies Weekly #1 (April, 1939)",Marvel Comics,good
+482,Namor,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+483,Namora,50,85,42,42,48,64,Female,null,180 cm,85 kg,Blue,Blond,Aquaria Nautica Neptunia,"Sub-Mariner, Avenging Daughter, the Sea Beauty",Unnamed Atlantean outpost,Marvel Mystery Comics #82 (1947),Marvel Comics,good
+484,Namorita,50,72,47,70,37,70,Female,null,168 cm,101 kg,Blue,Blond,Namorita Prentiss,"Kymaera, Hard",Atlantis Outskirts,SUB-MARINER Vol. 2 #50 (1972),Marvel Comics,good
+485,Naruto Uzumaki,50,80,32,80,100,100,Male,Human,168 cm,54 kg,-,-,,-,-,-,Shueisha,good
+486,Nathan Petrelli,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,Brown,-,Nathan Petrelli,-,-,Heroes S01E01,NBC - Heroes,good
+487,Nebula,63,52,13,50,42,60,Female,Luphomoid,185 cm,83 kg,Blue,No Hair,,-,-,"Avengers #257 (July, 1985)",Marvel Comics,bad
+488,Negasonic Teenage Warhead,50,7,8,10,45,35,Female,Mutant,0 cm,0 kg,Black,Black,Ellie Phimister,Warhead,-,New X-Men #115,Marvel Comics,good
+489,Nick Fury,75,11,23,42,25,100,Male,Human,185 cm,99 kg,Brown,Brown / White,Nicholas Joseph Fury,"Doyle, The Mystery in the Mask, Patch, Scorpio",New York City,Sgt. Fury and His Howling Commandos #1 (1963),Marvel Comics,good
+490,Nightcrawler,50,10,47,14,76,80,Male,null,175 cm,88 kg,Yellow,Indigo,Kurt Wagner,-,Somewhere in the Bavarian Alps,GIANT-SIZE X-MEN #1,Marvel Comics,good
+491,Nightwing,88,11,33,28,36,100,Male,Human,178 cm,79 kg,Blue,Black,Dick Grayson,"Freddie Dinardo, Freddy Loyd, The Target, Renegade, The Worlds Greatest Acrobat, The Aerial Avenger, Pixie Boots, The Boy / Teen Wonder, The Worlds Greatest Detective, The Caped Crusader",Gotham City,"as Dick Grayson and Robin) Detective Comics #38, (as Nightwing) Tales of the Teen Titans #44, (as Batman) Batman #512",Batman II,good
+492,Niki Sanders,63,52,35,28,37,56,Female,null,0 cm,0 kg,Blue,Blond,Nicole Sanders,"Jessica, Gina",-,Heroes S01E01 - Genesis,NBC - Heroes,good
+493,Nina Theroux,63,5,8,10,68,20,Female,Alpha,0 cm,0 kg,-,-,,-,-,-,SyFy,good
+494,Nite Owl II,Sin dato,45,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Daniel Dreiberg,-,-,-,DC Comics,good
+495,Northstar,50,18,83,56,65,70,Male,null,180 cm,83 kg,Blue,Black,Jean-Paul Beaubier,Jean-Paul Martin,"Montreal, Qu�bec, Canada",X-Men #120 (1979),Marvel Comics,good
+496,Nova,100,85,75,100,100,80,Male,Human,185 cm,86 kg,Brown,Brown,Richard Rider,"Rich, Bucket-Head, Human Rocket, Kid Nova, , Nova Prime, Quasar","Queens, NY","NOVA Vol. 1 #1 (September, 1976)",Marvel Comics,good
+497,Nova,63,60,100,100,100,35,Female,Human / Cosmic,163 cm,59 kg,White,Red,Frankie Raye,"Frances Hyatt, Human Torch",-,"Fantastic Four #164 (November, 1975)",Marvel Comics,good
+498,Odin,100,83,67,95,100,90,Male,God / Eternal,206 cm,293 kg,Blue,White,Odin Borson,"All-Father,Sky-Father, Atum-Re, Woden, Wotan, Oden, Orrin, Harbard, King of Asgard",Asgard,Journey into Mystery #85,Marvel Comics,good
+499,Offspring,50,10,35,99,100,56,Male,null,0 cm,0 kg,-,-,Luke O'Brian,"Ernie McDunnagh, Plastic Lad",-,-,DC Comics,good
+500,Omega Red,Sin dato,61,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,211 cm,191 kg,Red,Blond,Arkady Gregorivich,"Arkady Rossovich, Vasyliev Arkady",-,-,Marvel Comics,bad
+501,Omniscient,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,180 cm,65 kg,Brown,Black,Omniscient is the closest English word that compares to his alien tongue.,-,Another Unknown World,Team Epic Episode 101,Team Epic TV,good
+502,One Punch Man,38,100,83,95,55,50,Male,Human,175 cm,69 kg,-,No Hair,Saitama,Caped Baldy,-,"One Punch - Chapter 1, Volume 1",Shueisha,good
+503,One-Above-All,100,100,100,100,100,100,-,Cosmic Entity,0 cm,0 kg,-,-,,One Above All,-,Doctor Strange Vol 2 #13,Marvel Comics,neutral
+504,Onslaught,88,100,33,100,100,55,Male,Mutant,305 cm,405 kg,Red,No Hair,Onslaught,"Charlie Silus, Sir David The Great, Charles Xavier, Magneto, That Which Shall Survive, the Entity, Dark Xavier",-,"X-Man Vol 1 #15 (May, 1996)",Marvel Comics,bad
+505,Oracle,75,11,23,28,19,76,Female,Human,178 cm,59 kg,Blue,Red,Barbara Gordon,"Batgirl, Babs; Barbie Doll; O; The Masked Maiden; the Dark Knight Damsel",-,Suicide Squad #23 (Jan.1989),Batgirl,good
+506,Osiris,75,85,60,95,65,42,Male,null,0 cm,0 kg,Brown,Brown,Amon Tomaz,-,-,-,DC Comics,good
+507,Overtkill,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Nicholas Rocca,OvertWar,-,-,Image Comics,bad
+508,Ozymandias,100,18,33,20,49,95,Male,Human,0 cm,0 kg,Blue,Blond,Adrian Veidt,The World's Smartest Man,-,Watchmen #1,DC Comics,bad
+509,Parademon,9,28,17,50,53,25,-,Parademon,0 cm,0 kg,-,-,,-,Apokalips,New Gods #1,DC Comics,bad
+510,Paul Blart,8,11,21,50,7,5,Male,Human,170 cm,117 kg,-,-,Paul Blart,Mall Cop,-,-,Sony Pictures,good
+511,Penance,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,-,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+512,Penance I,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+513,Penance II,Sin dato,20,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,183 cm,89 kg,Blue,Blond,Robert Baldwin,"Formerly Speedball, Masked Marvel","Springdale, Connecticut",(as Speedball) Amazing Spider-Man Annual #22 (1988); (as Penance) Civil War: Front Line #10 (2007),Speedball,good
+514,Penguin,75,10,12,28,30,45,Male,Human,157 cm,79 kg,Blue,Black,Oswald Chesterfield Cobblepot,-,-,"DETECTIVE COMICS #58 (December, 1941)",DC Comics,bad
+515,Phantom,Sin dato,48,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Christopher Walker,Mr Walker; Christopher Standish,-,-,DC Comics,good
+516,Phantom Girl,38,10,23,28,53,42,Female,null,168 cm,54 kg,Blue,Black,Tinya Wazzo,-,-,Teen Titans/Legion Special #1 (2004),DC Comics,good
+517,Phoenix,100,100,83,100,100,80,Female,Mutant,168 cm,52 kg,Green,Red,Jean Grey,"Redd Dayspring, Marvel Girl",-,"X-Men #1 (September, 1963)",Jean Grey,good
+518,Plantman,63,60,25,55,61,25,Male,Mutant,183 cm,87 kg,Green,Grey,Samuel Smithers,Blackheath,"London, England","Strange Tales #113 (October, 1963)",Marvel Comics,bad
+519,Plastic Lad,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Luke O'Brian,Offspring,-,-,DC Comics,good
+520,Plastic Man,50,63,23,100,100,56,Male,Human,185 cm,80 kg,Blue,Black,Patrick O'Brian,-,-,"Police Comics #1 (August, 1941)",DC Comics,good
+521,Plastique,50,10,23,28,60,42,Female,null,168 cm,55 kg,Blue,Red,Bette Sans Souci,-,-,Fury of Firestorm #7,DC Comics,bad
+522,Poison Ivy,81,14,21,40,100,40,Female,Human,168 cm,50 kg,Green,Red,Pamela Isley,-,"Seattle, Washington",Batman #181 (June 1966),DC Comics,bad
+523,Polaris,63,73,42,50,100,45,Female,Mutant,170 cm,52 kg,Green,Green,Lorna Dane,"Pestilence, formerly Malice, Polarity, Magnetrix, M-2, Magneto the Second",Presumably northern California - not confirmed,"X-Men #49 (October, 1968)",Marvel Comics,good
+524,Power Girl,94,100,100,100,100,75,Female,Kryptonian,180 cm,81 kg,blue,blond,Kara Zor-L,"Karen Starr, Nightwing",-,All-Star Comics #58 (January/February 1976),DC Comics,good
+525,Power Man,Sin dato,82,Sin dato,Sin dato,Sin dato,Sin dato,Male,Mutant,0 cm,0 kg,-,-,Luke Cage,-,-,-,Luke Cage,good
+526,Predator,63,30,25,85,100,90,Male,Yautja,213 cm,234 kg,-,-,Yautja,"Hunters, Yautja, Hish",Yautja Prime,Predator (1987),Dark Horse Comics,bad
+527,Professor X,100,8,12,14,100,32,Male,Mutant,183 cm,86 kg,Blue,No Hair,Charles Francis Xavier,"Prof, Dr. X, Professor Xavier, formerly Prisoner M-13","New York, New York","X-Men #1 (September, 1963)",Marvel Comics,good
+528,Professor Zoom,94,10,100,20,83,20,Male,Human,180 cm,81 kg,Blue,Strawberry Blond,Eobard Thawne,"Reverse Flash, Black Flash, Adrian Zoom, Mister Zyx",-,"Flash #139 (September, 1963)",DC Comics,bad
+529,Psylocke,63,33,25,40,100,90,Female,Mutant,180 cm,70 kg,Blue,Purple,Elizabeth Braddock,"Betsy, Captain Britain, Lady Mandarin","Braddock Manor, England","Captain Britain #8 (December, 1976) / New Mutants Annual #2 (October, 1986) (US)",Marvel Comics,good
+530,Punisher,69,16,21,45,42,100,Male,Human,183 cm,90 kg,Blue,Black,Frank Castle,"Big Nothing, Major Bateman, Ted Bishop, Cliff Callador, Castigo, Chaloner, Fred D'Amato, Eastman, Charles Fort, Frank Loomis, McRook, Melchior, Joe Rainey, Frank Rook, Richard Rook, Tony Knowlen Ross, Francis Stronghold, Johnny Tower, Dmitri Velikoff, Fra","Queens, New York",AMAZING SPIDER-MAN #129,Marvel Comics,good
+531,Purple Man,56,10,8,30,92,10,Male,Human,180 cm,74 kg,Purple,Purple,Zebediah Killgrave,Kilgrave,-,"Daredevil #4 (October, 1964)",Marvel Comics,bad
+532,Pyro,38,10,12,14,54,28,Male,null,178 cm,68 kg,Blue,Blond,St. John Allerdyce,-,"Sydney, Australia",-,Marvel Comics,bad
+533,Q,100,12,17,100,100,40,Male,God / Eternal,0 cm,0 kg,-,-,Q,Q Continuum,-,-,Star Trek,-
+534,Quantum,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,HarperCollins,good
+535,Question,81,14,27,35,20,80,Male,Human,188 cm,83 kg,Blue,Blond,Charles Victor Szasz,Vic Sage,-,"Blue Beetle (Charlton) Vol 4 #1 (June, 1967)",DC Comics,good
+536,Quicksilver,63,28,100,60,81,56,Male,Mutant,183 cm,79 kg,Blue,Silver,Pietro Django Maximoff,"Pietro Frank, Gypsy Davey, Mateo Maximoff","Wundagore Mountain, Transia (in Eastern Europe)",X-MEN Vol. 1 #4,Marvel Comics,good
+537,Quill,38,10,12,14,23,14,Male,null,163 cm,56 kg,Brown,Brown,Maxwell Jordan,Max,-,New X-Men: Academy X #1,Marvel Comics,good
+538,Ra's Al Ghul,100,28,32,42,27,100,Male,Human,193 cm,97 kg,Green,Grey,Ra's Al Ghul,Demon's Head,Egypt,"Batman #232 (June, 1971)",DC Comics,bad
+539,Rachel Pirzad,63,4,8,10,52,10,Female,Alpha,0 cm,0 kg,-,-,,-,-,-,SyFy,good
+540,Rambo,63,14,25,30,30,100,Male,Human,178 cm,83 kg,Brown,Black,John Rambo,"Raven, Lone Wolf","Bowie, Arizona","First Blood (Novel, 1972)",null,good
+541,Raphael,63,17,50,65,59,80,Male,Mutant,0 cm,0 kg,-,No Hair,,-,-,Teenage Mutant Ninja Turtles #1,IDW Publishing,good
+542,Raven,50,10,29,70,84,40,Female,Human,165 cm,50 kg,Indigo,Black,Rachel Roth,"Pride, Dark Raven",Azarath,"DC Comics Presents #26 (October, 1980)",DC Comics,neutral
+543,Ray,50,10,92,100,100,20,Male,Human,178 cm,70 kg,Green,Red,Ray Terrill,-,-,Ray #1,DC Comics,good
+544,Razor-Fist II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,191 cm,117 kg,Blue,No Hair,Douglas Scott,Razorfist,-,"Master of Kung Fu I#105 (October, 1981)",Marvel Comics,bad
+545,Red Arrow,63,16,25,20,23,80,Male,Human,180 cm,83 kg,Green,Red,Roy Harper,"Arsenal, Speedy",-,(as Speedy) More Fun Comics # 73(Nov. 1941); (as Arsenal) The New Titans # 99 (July 1993); (as Red Arrow) Justice League of America Vol. 2 # 7 (May 2007),DC Comics,good
+546,Red Hood,75,12,23,28,35,95,Male,Human,183 cm,81 kg,Blue,Black,Jason Todd,"Robin, Red Robin, Batman, Nightwing, Arkham Knight",-,Batman #635,Robin II,neutral
+547,Red Hulk,50,100,47,85,82,75,Male,Human / Radiation,213 cm,630 kg,Yellow,Black,Thaddeus E. Ross,"Rulk, Hulk, Thunderbolt, General Ross",-,"Incredible Hulk #1 (May, 1962)(as General Ross), Hulk Vol 2 #1 (March, 2008) (as Red Hulk)",Marvel Comics,neutral
+548,Red Mist,25,10,23,14,20,56,Male,null,0 cm,0 kg,-,-,Chris Genovese,The Red Mist,-,Kick-Ass #5,Icon Comics,bad
+549,Red Robin,81,11,27,32,29,80,Male,Human,165 cm,56 kg,Blue,Black,Tim Drake,"Alvin Draper, Batman, Robin, Timothy Wayne, Time Drake",Gotham City,"Batman #436 (August, 1989)",Robin III,good
+550,Red Skull,75,10,12,14,19,80,Male,null,188 cm,108 kg,Blue,No Hair,Johann Shmidt,"Dell Rusk, Bettman P. Lyles, the Agent of a Thousand Faces, The Man, Cyrus Fenton, Teacher, Tod March, John Smith, Aleksander Lukin.",An unidentified village in Germany,"Captain America Comics #1 (1941), (modern) Tales of Suspense #66 (1965)",Marvel Comics,bad
+551,Red Tornado,75,38,67,60,100,40,Male,Android,185 cm,146 kg,Green,No Hair,John Smith,"Ulthoon, Tornado Tyrant of Rann, Tornado Champion, Tornado Man Dreaming, ""Reddy""",-,"As Red Tornado: Justice League of America #64, As Ulthoon: Mystery in Space #61",DC Comics,good
+552,Redeemer II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Phil Timper,-,-,Spawn #31,Image Comics,bad
+553,Redeemer III,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Eddie Frank,-,-,-,Image Comics,bad
+554,Renata Soliz,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,HarperCollins,good
+555,Rey,63,8,21,10,87,35,Female,Human,297 cm,0 kg,Hazel,Brown,,-,Jakku,Star Wars: Episode VII - The Force Awakens (2015),George Lucas,good
+556,Rhino,25,80,43,90,36,85,Male,Human / Radiation,196 cm,320 kg,Brown,Brown,Aleksei Mikhailovich Sytsevich,"Alex O'Hirn, Mecha-Rhino",-,Amazing Spider-Man #41,Marvel Comics,bad
+557,Rick Flag,88,11,23,28,19,95,Male,null,185 cm,85 kg,Blue,Brown,Richard Rogers Flag,-,-,Brave and the Bold #25 (September 1959),DC Comics,bad
+558,Riddler,100,10,12,14,10,14,Male,null,0 cm,0 kg,-,-,Edward Nigma,"E. Nigma, Edward E. Nigma",-,Detective Comics #140 (1948),DC Comics,bad
+559,Rip Hunter,100,8,8,10,100,25,Male,Human,0 cm,0 kg,Blue,Blond,Richard Hunter,"Time Lord, Time Master, Boppy, Dr. Hunter, Mr, Hunter, Carter",-,Showcase #20,DC Comics,good
+560,Ripcord,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,180 cm,72 kg,Green,Black,Miranda Leevald,-,-,-,Marvel Comics,good
+561,Robin,88,11,27,28,32,85,Male,Human,178 cm,79 kg,Blue,Black,Dick Grayson,"Renegade, The Target, Freddie Dinardo",-,"Detective Comics #38 (April, 1940)",Batman II,good
+562,Robin II,75,11,27,28,28,85,Male,Human,183 cm,101 kg,Blue,Red,Jason Todd,"Red Hood, Red Robin, Batman, Nightwing, Wingman, Jaybird, Arkham Knight",-,Detective Comics #524,Red Hood,good
+563,Robin III,81,11,27,28,29,85,Male,Human,165 cm,56 kg,Blue,Black,Tim Drake,"Alvin Draper, Batman, Robin, Timothy Wayne",-,"Batman #436 (August, 1989)",Red Robin,good
+564,Robin V,69,8,33,16,29,65,Male,Human,137 cm,38 kg,Blue,Black,Damian Wayne,"Batman, Damian al Ghul, Ibn al Xu'ffasch, Redbird",-,Batman: Son of the Demon,DC Comics,good
+565,Robin VI,50,8,25,20,17,70,Female,Human,0 cm,0 kg,Green,Red,Carrie Kelley,-,Gotham City,-,DC Comics,neutral
+566,Rocket Raccoon,50,5,23,28,28,64,Male,Animal,122 cm,25 kg,Brown,Brown,Rocket Raccoon,"Sharpshooting Space Racoon, Rocky Raccoon, Ranger Rocket",-,"Marvel Preview #7 (June, 1976)",Marvel Comics,good
+567,Rogue,75,10,12,28,80,80,Female,null,173 cm,54 kg,Green,Brown / White,Anna Marie,"Anna Raven, Doctor Kellogg, Mutate 9602, Irene Adler, Miss Smith","Caldecott County, Mississippi",Avengers Annual #10 (1981),Marvel Comics,good
+568,Ronin,56,12,21,10,13,80,Male,Human,191 cm,104 kg,Blue,Blond,Clint Barton,"Formerly Hawkeye, the Marksman, 'Br'er Hawkeye', Superhuman Cellblock Prisoner 334556, Longbow, Goliath, Father Time, Louis, Robin Hood, the Hawkeye Kid, Golden Archer, 'Purple Man'; impersonated Constrictor & Dreadknight","Waverly, Iowa",-,Goliath,good
+569,Rorschach,75,10,29,20,23,80,Male,Human,168 cm,63 kg,Blue,Red,Walter Joseph Kovacs,-,-,"Watchmen #1 (September, 1986)",DC Comics,good
+570,Sabretooth,56,48,38,90,50,100,Male,Mutant,198 cm,171 kg,Amber,Blond,Victor Creed,"Slasher, El Tigre",-,"Iron Fist #14 (August, 1977)",Marvel Comics,bad
+571,Sage,75,10,12,14,28,56,Female,null,170 cm,61 kg,Blue,Black,Tessa,-,Place of birth unknown,X-MEN Vol. 1 #132,Marvel Comics,good
+572,Sandman,44,75,46,90,100,60,Male,Human,185 cm,203 kg,Brown,Brown,William Baker,"Flint Marko, Sylvester Mann, Quarryman","Queens, New York","Amazing Spider-Man #4 (September, 1963)",Marvel Comics,neutral
+573,Sasquatch,75,80,23,56,15,42,Male,null,305 cm,900 kg,Red,Orange,Walter Langkowski,"Box, Wanda Langkowski","Edmonton, Alberta, Canada",-,Marvel Comics,good
+574,Sauron,88,85,33,100,100,70,Male,Maiar,279 cm,0 kg,-,-,Sauron,"Annatar, Gorthaur the Cruel, Sauron the Dark, The Necromancer, Dark Lord of Mordor, Lord of the Rings, The Great Eye",-,-,J. R. R. Tolkien,bad
+575,Savage Dragon,63,70,54,85,66,72,Male,null,0 cm,0 kg,-,-,Kurr,-,-,-,Image Comics,good
+576,Scarecrow,81,10,12,14,48,50,Male,Human,183 cm,63 kg,Blue,Brown,Jonathan Crane,-,-,"WORLD'S FINEST COMICS #3 (Fall, 1941)",DC Comics,bad
+577,Scarlet Spider,75,53,60,74,46,56,Male,Human,178 cm,74 kg,Blue,Blond,Benjamin Reilly,"Spider-Clone, Spider-Man",Place of birth unknown,Amazing Spider-Man # 149 (as Spider-Clone); Web of Spider-Man # 117 (as Ben Reilly),Spider-Carnage,good
+578,Scarlet Spider II,88,55,60,40,37,56,Male,Clone,193 cm,113 kg,Brown,Brown,Kaine Parker,"Tarantula, Kaine, Ara�a Escarlata",-,"Web of Spider-Man #119 (December, 1994)",Marvel Comics,good
+579,Scarlet Witch,100,10,29,70,100,80,Female,Mutant,170 cm,59 kg,Blue,Brown,Wanda Maximoff,"Wanda Frank, Wanda Magnus, Ana Maximoff, Gypsy Witch, The Witch","Wundagore Mountain, Transia","Uncanny X-Men #4 (March, 1964)",Marvel Comics,bad
+580,Scorpia,38,28,42,28,34,28,Female,null,0 cm,0 kg,Green,Red,Elaine Coll,-,-,Spider-Man: Power of Terror limited series #2 (1995),Marvel Comics,bad
+581,Scorpion,50,52,60,85,49,80,Male,Human,211 cm,310 kg,Brown,Brown,MacDonald Gargan,"Venom, Spider-Man",-,Amazing Spider-Man #19 (1964),Venom III,bad
+582,Sebastian Shaw,63,85,12,95,36,56,Male,Mutant,0 cm,0 kg,-,-,Sebastian Hiram Shaw,-,-,-,Marvel Comics,bad
+583,Sentry,75,100,100,84,100,40,Male,Mutant,188 cm,87 kg,Blue,Blond,Robert Reynolds,"Void, Bob, Golden Guardian of Good, John Victor Williams, Scout",-,"Sentry #1 (September, 2000)",Marvel Comics,neutral
+584,Shadow King,75,12,27,100,100,75,-,null,185 cm,149 kg,Red,-,Amahl Farouk,"Professor X, Ananasi, Amahl Farouk, Evil One, Master of the Games; he also impersonated the following mind-controlled subjects (in chronological order): Alexander Flynn, Karma, Cypher, Jacob Reisz, Donald Pierce and probably others",-,X-Men #117 (1979),Marvel Comics,good
+585,Shadow Lass,63,10,67,20,79,80,Female,Talokite,173 cm,54 kg,Black,Black,Tasmia Mallor,-,Talok VIII,Adventure Comics #365,DC Comics,good
+586,Shadowcat,88,8,21,25,69,70,Female,Mutant,168 cm,50 kg,Hazel,Brown,Kitty Pryde,"Kitty Pryde, Ariel, Sprite, Cat","Deerfield, Illinois","X-Men #129 (January, 1980)",Marvel Comics,good
+587,Shang-Chi,63,12,30,50,29,100,Male,Human,178 cm,79 kg,Brown,Black,Shang-Chi,The Master of Kung Fu; The Rising and Advancing of the Spirit; Chinaman (by Jack Tarr),-,"Special Marvel Edition #15 (December, 1973)",Marvel Comics,good
+588,Shatterstar,63,48,45,64,49,84,Male,null,191 cm,88 kg,Brown,Red,Gaveedra Seven,Benjamin Russell,Mojoworld,New Mutants #99,Marvel Comics,good
+589,She-Hulk,81,100,42,100,40,70,Female,Human,201 cm,315 kg,Green,Green,Jennifer Walters,Jade Giantess,"Los Angeles, California",She-Hulk (Vol. 1) #1,Marvel Comics,good
+590,She-Thing,69,72,21,80,23,65,Female,Human / Radiation,183 cm,153 kg,Blue,No Hair,Sharon Ventura,"Thing, Ms Marvel",-,Thing #27,Ms Marvel II,good
+591,Shocker,63,10,23,70,79,56,Male,Human,175 cm,79 kg,Brown,Brown,Herman Schultz,-,-,Amazing Spider-Man #46,Marvel Comics,bad
+592,Shriek,50,10,23,28,45,42,Female,null,173 cm,52 kg,Yellow / Blue,Black,Frances Louise Barrison,Sandra Deel,-,-,Marvel Comics,good
+593,Shrinking Violet,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,DC Comics,good
+594,Sif,63,90,67,80,100,70,Female,Asgardian,188 cm,191 kg,Blue,Black,Sif,"Lady Sif, Erika Velez, Mrs. Chambers, Sybil",-,"Journey into Mystery #102 (March, 1964)",Marvel Comics,good
+595,Silk,75,48,71,70,71,65,Female,Human,0 cm,0 kg,Brown,Black,Cindy Moon,-,-,Amazing Spider-Man Vol 3 #4,Marvel Comics,good
+596,Silk Spectre,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,Sally Juspeczyk,Sally Jupiter,-,-,DC Comics,good
+597,Silk Spectre II,Sin dato,51,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,Laurie Juspeczyk,-,-,-,DC Comics,good
+598,Silver Surfer,56,100,100,90,100,32,Male,Alien,193 cm,101 kg,White,No Hair,Norrin Radd,-,Zenn-La,"Fantastic Four, Vol. 1 #48",Marvel Comics,good
+599,Silverclaw,50,28,35,42,34,42,Female,null,157 cm,50 kg,Brown,Black,Maria de Guadalupe Santiago,"La Garra Argentado, Daughter of the Volcano God,","The village of Kamekeri, Costa Verde",Avengers #8 (1998),Marvel Comics,good
+600,Simon Baz,56,90,42,55,100,60,Male,Human,0 cm,0 kg,Bown,Black,Simoon Baz,"Green Lantern, White Lantern","Dearborn, Michigan","The New 52: FCBD Special Edition #1 (June, 2012)",DC Comics,good
+601,Sinestro,75,85,53,64,100,55,Male,Korugaran,201 cm,92 kg,Black,Black,Thaal Sinestro,"Green Lantern, White Lantern, Yellow Lantern, Parallax, Indigo Lantern","Korugar City, Korugar",Green Lantern Vol 2 #7,DC Comics,neutral
+602,Siren,56,62,79,60,92,60,Female,Atlantean,175 cm,72 kg,Blue,Purple,Hila,-,-,"Aquaman #22 (August, 1965)",DC Comics,bad
+603,Siren II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,Black,-,La Sirene la Bailene,-,Atlantis,The Titans #5 (1999),DC Comics,bad
+604,Siryn,38,8,47,28,50,42,Female,null,168 cm,52 kg,Blue,Strawberry Blond,Theresa Rourke Cassidy,Theresa Rourke,"Cassidy Keep, County Mayo, Ireland",Spider-Woman (first series) #37,Marvel Comics,bad
+605,Skaar,50,85,27,90,69,85,Male,null,198 cm,180 kg,Green,Black,,"Savior, Son of Hulk, WorldBreaker, Long Hair, Little Monster, Conan",Sakaar,"World War Hulk #5, 2007",Marvel Comics,good
+606,Snake-Eyes,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Animal,0 cm,0 kg,-,-,,Xanthian Boulder Crusher,-,"Marvel Team-Up Annual Vol 1 #7 October, 1984",Marvel Comics,bad
+607,Snowbird,50,32,27,42,70,52,Female,null,178 cm,49 kg,White,Blond,Narya,Anne McKenzie-Thompson,"Near Resolute Bay, Northwest Territories, Canada",Uncanny X-Men #120,Marvel Comics,good
+608,Sobek,50,34,23,46,20,56,Male,null,0 cm,0 kg,White,No Hair,Yurrd the Unknown,Sobek the Talking Crocodile; The Unknown in Formless Time Before Time; Famine,Nile River; Bioengineered at Oolong Island,52 Week Twenty-Six,DC Comics,good
+609,Solomon Grundy,9,93,13,100,92,30,Male,Zombie,279 cm,437 kg,Black,White,Cyrus Gold,Marshland Monster,Gotham City,"All-American Comics #61 (October, 1944)",DC Comics,bad
+610,Songbird,75,36,27,42,55,56,Female,null,165 cm,65 kg,Green,Red / White,Melissa Joan Gold,"Screaming Mimi, Mimi Schwartz, Margie Green","Shoshoni, Wyoming",-,Marvel Comics,good
+611,Space Ghost,38,18,33,40,95,80,Male,Human,188 cm,113 kg,-,-,Thaddeus Bach,"Ted Ghostel, Tad Ghostal",-,Space Ghost (1966),DC Comics,good
+612,Spawn,75,60,50,90,100,95,Male,Demon,211 cm,405 kg,Brown,Black,Al Simmons,"The One, Hellspawn","Detroit, Michigan (8th level of Hell after rebirth)","Spawn #1 (May, 1992)",Image Comics,good
+613,Spectre,88,100,100,100,100,70,Male,God / Eternal,0 cm,0 kg,White,No Hair,Aztar,"Spirit of Vengeance, Wrath of God, Spirit of Redemption, Raguel, James Corrigan, Hal Jordan, Cripus Allen",-,"More Fun Comics #52 (February, 1940)",Aztar,good
+614,Speedball,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Robert Baldwin,"Penance, Masked Marvel","Springdale, Connecticut","Amazing Spider-Man Annual #22, (chronologically) Speedball #1",Penance II,good
+615,Speedy,50,6,33,20,26,70,Female,Human,0 cm,0 kg,Green,Brown,Thea Queen,"Thea Merlyn, Mia, Red Arrow",Starling City,"Arrow (TV Series) - ""Pilot""",DC Comics,good
+616,Speedy,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,0 cm,0 kg,-,-,"Roy William Harper, Jr.",-,-,-,Arsenal,good
+617,Spider-Carnage,Sin dato,69,Sin dato,Sin dato,Sin dato,Sin dato,Male,Symbiote,0 cm,0 kg,-,-,Benjamin Reilly,-,-,-,Scarlet Spider,bad
+618,Spider-Girl,63,38,60,65,53,75,Female,Human,170 cm,54 kg,Blue,Brown,May 'Mayday' Parker,-,"New York City, New York","What If? Vol 2 #105 (February, 1998)",Marvel Comics,good
+619,Spider-Gwen,75,55,63,70,66,70,Female,Human,165 cm,56 kg,Blue,Blond,Gwen Stacy,Spider-Woman,-,Edge of Spider-Verse #2,Marvel Comics,good
+620,Spider-Man,90,55,67,75,74,85,Male,Human,178 cm,74 kg,Hazel,Brown,Peter Parker,"Spiderman, Bag-Man, Black Marvel, Captain Universe, Dusk, Green Hood, Hornet, Mad Dog 336, Peter Palmer, Prodigy, Ricochet, Scarlet Spider, Spider-Boy, Spider-Hulk, Spider-Morphosis","New York, New York",Amazing Fantasy #15,Marvel Comics,good
+621,Spider-Man,Sin dato,57,Sin dato,Sin dato,Sin dato,Sin dato,-,Human,178 cm,77 kg,Red,Brown,Miguel O'Hara,"Spider-Man 2099, Spiderman",-,"Amazing Spider-Man #365 (August, 1992)",Marvel Comics,good
+622,Spider-Man,Sin dato,58,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,157 cm,56 kg,Brown,Black,Miles Morales,Spiderman,-,"Ultimate Comics Fallout #4 (October, 2011)",Marvel Comics,good
+623,Spider-Woman,56,42,42,60,68,70,Female,Human,178 cm,59 kg,Green,Black,Jessica Drew,"Arachne, Ariadne Hyde, Dark Angel, Dark Angel of San Francisco","London, England","Marvel Spotlight #32 (February, 1977)",Marvel Comics,good
+624,Spider-Woman II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+625,Spider-Woman III,50,48,27,42,60,28,Female,null,173 cm,55 kg,Brown,Brown,Martha Franklin,-,"Rochester, New York",(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998),Marvel Comics,good
+626,Spider-Woman IV,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,178 cm,58 kg,Red,White,Charlotte Witter,Spider-Woman,-,Amazing Spider-Man Volume 2 #5 (# 446),Marvel Comics,bad
+627,Spock,81,18,17,40,56,40,Male,Human-Vulcan,185 cm,81 kg,Brown,Black,S'chn T'gai Spock,-,-,Star Trek S01E01: The Man Trap,Star Trek,good
+628,Spyke,50,12,17,60,48,30,Male,Mutant,183 cm,83 kg,Brown,Blond,Evan Daniels,"Porcupine, Armadillo",-,"""Speed & Spyke"" (December 9, 2000)",Marvel Comics,good
+629,Stacy X,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+630,Star-Lord,69,20,33,50,25,70,Male,Human-Spartoi,188 cm,79 kg,Blue,Blond,Peter Jason Quill,Starlord,-,"Marvel Preview #4 (January, 1976)",Marvel Comics,good
+631,Stardust,88,85,100,110,100,85,Male,null,0 cm,0 kg,-,-,,Entity Lambda-Zero,-,-,Marvel Comics,good
+632,Starfire,50,80,33,85,59,70,Female,Tamaranean,193 cm,71 kg,Green,Auburn,Koriand'r,"Princess Koriand'r, Kory Anders, Nova",Tamaran,"DC Comics Presents #26 (October, 1980)",DC Comics,good
+633,Stargirl,63,80,25,90,87,55,Female,Human,165 cm,62 kg,Blue,Blond,Courtney Whitmore,"Star-Spangled Kid, Star, Stars",-,"Stars and S.T.R.I.P.E. #0 (July, 1999)",DC Comics,good
+634,Static,69,8,42,50,90,40,Male,Mutant,170 cm,63 kg,Brown,Black,Virgil Hawkins,"Sparky, Virg, V, V-Man","Paris Island, Dakota City","Static #1 (June, 1993)",DC Comics,good
+635,Steel,81,82,53,90,64,64,Male,null,201 cm,131 kg,Brown,No Hair,John Henry Irons,"Man of Steel, Henry Johnson","Washington, D.C.",Adventures of Superman #500 (1993),DC Comics,good
+636,Stephanie Powell,69,10,54,10,24,10,Female,null,0 cm,0 kg,-,Blond,Stephanie Powell,-,-,No Ordinary Family S01E01 (2010),ABC Studios,good
+637,Steppenwolf,94,100,83,100,100,100,Male,New God,183 cm,91 kg,Red,Black,,Steppenwulf,-,The New Gods #7,DC Comics,bad
+638,Storm,75,10,47,30,88,75,Female,Mutant,180 cm,57 kg,Blue,White,Ororo Munroe,"Ororo Iqadi T'Challa, Queen Ororo, Ororo Komo Wakandas,White Queen, Weather Witch, Windrider, Goddess, Mistress of the Elements, Princess of N'Dare, High Priestess Windrider, Goddess, Mistress of the Elements, Princess of N'Dare, High Priestess","New York, New York","Giant-Size X-Men #1 (May, 1975)",Marvel Comics,good
+639,Stormtrooper,10,8,8,15,5,20,Male,Human,183 cm,0 kg,-,-,,-,-,Star Wars: Episode IV - A New Hope (1977),George Lucas,bad
+640,Sunspot,63,63,35,25,90,70,Male,Mutant,173 cm,77 kg,brown,black,Roberto DaCosta,"Robert DaCosta, Bobby; Black Rook, Black King, Reignfire","Rio de Janeiro, Brazil","Marvel Graphic Novel #4 (October, 1982)",Marvel Comics,good
+641,Superboy,75,95,83,90,95,60,Male,null,170 cm,68 kg,Blue,Black,Kon-El / Conner Kent,"Experiment 13; Superman; Project: Superman; Carl Krummett; Project: Lionel Luthor; The Metropolis Kid, Superman",Project Cadmus cloning facility,"Adventures of Superman #500 (June, 1993)",DC Comics,good
+642,Superboy-Prime,94,100,100,100,100,85,Male,Kryptonian,180 cm,77 kg,Blue,Black / Blue,Kal-El,Superman-Prime; Prime; Superboy; Clark Kent; Clarkie; Time Trapper,Krypton (Earth-Prime),"DC Comics Presents #87 (November, 1985)",DC Comics,bad
+643,Supergirl,94,100,100,100,100,75,Female,Kryptonian,165 cm,54 kg,Blue,Blond,Kara Zor-El,"Linda Lang, Kara-El, Kara Kent, Flamebird, Trinity Child, Teen of Tomorrow, The Girl of Steel, The Maid of Might, The Princess of Power, Mighty Maid, Claire Connors, Bluebird","Argo City, Krypton","Superman/Batman #8 (May, 2004)",DC Comics,good
+644,Superman,94,100,100,100,100,85,Male,Kryptonian,191 cm,101 kg,Blue,Black,Clark Kent,"Clark Joseph Kent, The Man of Steel, the Man of Tomorrow, the Last Son of Krypton, Big Blue, the Metropolis Marvel, the Action Ace",Krypton,ACTION COMICS #1,Superman Prime One-Million,good
+645,Swamp Thing,88,95,25,100,100,55,Male,God / Eternal,0 cm,0 kg,Red,No Hair,Alec Holland,"Green Man, Swampy, the Weed, Le Bon Gumbo, Smalsh-Yegger (on Rann)",-,"Swamp Thing #1 (November, 1972)",DC Comics,bad
+646,Swarm,75,18,50,90,38,35,Male,Mutant,196 cm,47 kg,Yellow,No Hair,Fritz von Meyer,-,-,"Champions #14 (July, 1977)",Marvel Comics,bad
+647,Sylar,75,10,12,28,91,56,Male,null,0 cm,0 kg,-,-,Gabriel Gray,"Gabriel Sylar, Drew O'Grady, Dr. Suresh, Zane Taylor, Isaac Mendez",-,-,NBC - Heroes,bad
+648,Synch,75,67,23,28,74,56,Male,null,180 cm,74 kg,Brown,Black,Everett Thomas,-,-,X-Men #36 (1994),Marvel Comics,good
+649,T-1000,75,34,33,100,100,75,Male,Android,183 cm,146 kg,-,-,Cyberdyne Systems Series 1000 Terminator,"T-1001, T-1002",-,Terminator 2: Judgment Day,Dark Horse Comics,bad
+650,T-800,75,34,17,60,73,65,Male,Cyborg,0 cm,176 kg,Red,-,Cyberdyne Systems Series 800 Terminator Model 101,Terminator,-,The Terminator (1984),Dark Horse Comics,bad
+651,T-850,75,80,25,90,83,75,Male,Cyborg,0 cm,198 kg,Red,-,Cyberdyne Systems Series 850 Terminator,Terminator,-,Terminator 3: Rise of the Machines (2003),Dark Horse Comics,bad
+652,T-X,75,63,29,85,100,80,Female,Cyborg,0 cm,149 kg,-,-,Cyberdyne Systems Series X Terminator,-,-,-,Dark Horse Comics,bad
+653,Taskmaster,75,12,50,20,63,100,Male,Human,188 cm,99 kg,Brown,Brown,Tony Masters,-,-,Avengers #195,Marvel Comics,bad
+654,Tempest,38,10,45,28,66,60,Female,null,163 cm,54 kg,Brown,Black,Angel Salvadore Bohusk,-,-,"New X-Men #118 (November, 2001)",Angel Salvadore,good
+655,Thanos,100,100,33,100,100,80,Male,Eternal,201 cm,443 kg,Red,No Hair,Thanos,"The Mad Titan, Masterlord, The Overmaster, Chins",Titan,Iron Man #55,Marvel Comics,bad
+656,The Cape,38,10,23,32,22,64,Male,null,0 cm,0 kg,-,-,Vince Faraday,Cape,-,The Cape S01E01 (2011),null,good
+657,The Comedian,63,14,17,10,12,80,Male,Human,188 cm,101 kg,Brown,Black,Edward Morgen Blake,Eddie Blake,-,"Watchmen #1 (September, 1986)",DC Comics,neutral
+658,Thing,75,84,21,100,38,80,Male,Human / Radiation,183 cm,225 kg,Blue,No Hair,Ben Grimm,"Blackbeard the Pirate, Grim Ben, Dr. Josiah Verpoorteen","New York City, New York","Fantastic Four #1 (November, 1961)",Marvel Comics,good
+659,Thor,69,100,83,100,100,100,Male,Asgardian,198 cm,288 kg,Blue,Blond,Thor Odinson,"Donald Blake, Sigurd Jarlson, Jake Olsen, Donar the Mighty",Asgard,"Journey into Mystery #83 (August, 1962)",Rune King Thor,good
+660,Thor Girl,75,83,70,84,100,70,Female,Asgardian,175 cm,143 kg,Blue,Blond,Tarene,"Asgard Lass, the Designate, the Destroyer, Hammerette, Hammer Girl, Hammer Lass, Tara Olson, Spirit of the Jewel, the Supreme, Thoreta, Thorita, Thor Lass",-,"Thor, Volume 2, #22; (as Thor Girl) Thor, Volume 2, #33",Marvel Comics,good
+661,Thunderbird,50,32,27,32,13,70,Male,null,185 cm,101 kg,Brown,Black,John Proudstar,-,"Camp Verde, Arizona",Giant-Size X-Men #1 (1975),Marvel Comics,good
+662,Thunderbird II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,James Proudstar,-,-,-,Warpath,good
+663,Thunderbird III,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,175 cm,74 kg,Brown,Black,Neal Shaara,-,Bangladesh,-,Marvel Comics,good
+664,Thunderstrike,63,80,70,84,42,72,Male,null,198 cm,288 kg,Blue,Blond,Eric Kevin Masterson,Thor,-,(as Masterson) Thor #391; (as Thor) Thor #432; (as Thunderstrike) Thunderstrike #1,Marvel Comics,good
+665,Thundra,38,81,32,64,26,54,Female,null,218 cm,158 kg,Green,Red,Thundra,-,-,"Fantastic Four #129 (December, 1972)",Marvel Comics,good
+666,Tiger Shark,38,72,46,70,51,28,Male,Human,185 cm,203 kg,Grey,No Hair,Todd Arliss,Arlys Tigershark,"Pasadena, California","Sub-Mariner #5 (September, 1968)",Marvel Comics,bad
+667,Tigra,63,32,53,38,33,90,Female,null,178 cm,81 kg,Green,Auburn,Greer Grant Nelson,"The Cat, Greer Sorenson",Presumably Chicago Illinois USA,The Cat #1,Marvel Comics,good
+668,Tinkerer,100,10,23,14,10,14,Male,null,163 cm,54 kg,Brown,White,Phineas Mason,-,-,Amazing Spider-Man #2 (1963),Marvel Comics,bad
+669,Titan,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,-,-,-,HarperCollins,good
+670,Toad,50,34,58,56,70,28,Male,Mutant,175 cm,76 kg,Black,Brown,Mortimer Toynbee,The Terrible Toad-King,"York, England","X-Men #4 (March, 1964)",Marvel Comics,neutral
+671,Toxin,56,73,70,84,82,70,Male,Symbiote,188 cm,97 kg,Blue,Brown,Patrick Mulligan,Larry,New York City,Venom vs. Carnage #1 (2004),Marvel Comics,good
+672,Toxin,75,80,42,85,97,70,Male,Symbiote,191 cm,117 kg,Black,Blond,Eddie Brock,"Eddie, Sister Edwina, ""Ed"", Edwin Brock, Venom, Lethal Protector, 998th, Anti-Venom, White Venom","San Francisco, California",Venom Vol 2 #17,Anti-Venom,good
+673,Tracy Strauss,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,Tracy Strauss,Ice Queen,"Beverly Hills, CA",-,NBC - Heroes,good
+674,Trickster,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,Human,183 cm,81 kg,Blue,Blond,Giovanni Giuseppe,James Jesse,-,"Flash #113 (July, 1960)",DC Comics,-
+675,Trigon,Sin dato,99,Sin dato,Sin dato,Sin dato,Sin dato,Male,God / Eternal,0 cm,0 kg,Yellow,Black,,"Lucifer, Satan,The Devil, Lord Trigon, Master Trigon, King Trigon, Conqueror of Worlds, Ruler of the Five Under Realms",-,"New Teen Titans #5 (March, 1981)",DC Comics,bad
+676,Triplicate Girl,63,10,23,42,44,42,Female,null,168 cm,59 kg,Purple,Brown,Luornu Durgo,"Duo Damsel, Una, Triad",-,Teen Titans/Legion Special #1,DC Comics,good
+677,Triton,56,63,50,65,35,55,Male,Inhuman,188 cm,86 kg,Green,No Hair,Triton,-,"Island of Attilan, Atlantic Ocean","Fantastic Four #45 (December, 1965)",Marvel Comics,good
+678,Two-Face,88,10,12,14,9,28,Male,null,183 cm,82 kg,-,-,Harvey Dent,Apollo,-,-,DC Comics,bad
+679,Ultragirl,50,80,35,70,35,80,Female,null,168 cm,105 kg,Blue,Blond,Tsu-Zana,"Suzy Sherman, Ultra-Girl",-,-,Marvel Comics,good
+680,Ultron,88,83,42,100,100,64,Male,Android,206 cm,331 kg,Red,-,Ultron,"Crimson Cowl, Great Devil, Great Ultron, Iron Man, Mark, Omega, Ultimate Ultron, Ultron-5 (and hundreds of other sequential numerical designations), Ultron Mark Twelve, Ho Yinsen","Created in Cresskill, New Jersey","Avengers #54 (July, 1968)",Marvel Comics,bad
+681,Utgard-Loki,50,80,23,84,85,64,Male,Frost Giant,15.2 meters,58 tons,Blue,White,,-,Jotunheim,-,Marvel Comics,bad
+682,Vagabond,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,168 cm,54 kg,Blue,Strawberry Blond,Priscilla Lyons,-,-,"(as Lyons) CAPTAIN AMERICA #325, (as Vagabond) CAPTAIN AMERICA #342",Marvel Comics,good
+683,Valerie Hart,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,175 cm,56 kg,Hazel,Black,,-,"East Coast, Canada",Team Epic Episode 101,Team Epic TV,good
+684,Valkyrie,Sin dato,94,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,191 cm,214 kg,Blue,Blond,Brunnhilde (also spelled Brunnhilda),"Barbara Norriss, Samantha Parrington",Presumably Asgard,"(Enchantress in Valkyrie's form) AVENGERS #87, (Samantha Parrington in Valkyrie's form) INCREDIBLE HULK #142, (Brunnhilde in Barbara Norriss's body) DEFENDERS #3, (Brunnhilde in her own body) DEFENDERS #109",Marvel Comics,good
+685,Vanisher,63,10,75,56,61,42,Male,null,165 cm,79 kg,Green,No Hair,,Telford Porter,"Boston, Massachusetts",X-Men (Vol 1) #2,Marvel Comics,bad
+686,Vegeta,81,100,92,95,100,100,Male,Saiyan,168 cm,73 kg,-,Black,Vegeta,"Prince Vegeta, The Saiyan Prince, The Prince of all Saiyans, Majin Vegeta, Bejiita, Bejiita no Ouji, Vejita, Vegita, Captain Vegeta, Vegeta-Sama, Makita (Hebrew dub), Bezita (Malaysian dub), Super Vegeta",-,Dragon Ball #17,Shueisha,bad
+687,Venom,75,57,65,84,86,84,Male,Symbiote,191 cm,117 kg,Blue,Strawberry Blond,Eddie Brock,-,"New York, New York","(as alien costume) Secret Wars #8, (behind the scenes) Web of Spider-Man #18, (actual appearance) Amazing Spider-Man #300",Anti-Venom,bad
+688,Venom II,50,57,47,70,54,56,Male,null,175 cm,50 kg,Brown,Black,Angelo Fortunato,-,-,Marvel Knights Spider-Man #7 (2005),Marvel Comics,bad
+689,Venom III,63,73,35,90,73,56,Male,Symbiote,229 cm,334 kg,Brown,Brown,MacDonald Gargan,Scorpion,-,(As Gargan) Amazing Spider-Man #19 (1964); (as Scorpion) Amazing Spider-Man #20 (1965); (as Venom) Marvel Knights: Spider-Man #10 (2005),Scorpion,bad
+690,Venompool,69,57,63,100,100,100,Male,Symbiote,226 cm,0 kg,-,-,Wade Wilson,Deadpool,-,"What If? Iron Man: Demon in an Armor #1 (February, 2011)",Deadpool,-
+691,Vertigo II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,168 cm,52 kg,Blue,Silver,-,-,The Savage Land,MARVEL FANFARE #1,Blaquesmith,good
+692,Vibe,50,10,17,30,99,30,Male,Human,178 cm,71 kg,Brown,Black,Cisco Ramon,-,-,The New 52: FCBD Special Edition #1,DC Comics,good
+693,Vindicator,63,63,53,64,58,70,Female,Human,165 cm,54 kg,Green,Red,Heather Hudson,Guardian,"Calgary, Alberta, Canada","X-Men #139 (November, 1980)",Vindicator II,good
+694,Vindicator,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Dr. James McDonald Hudson,-,-,-,Marvel Comics,good
+695,Violator,Sin dato,53,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,,The Clown,-,"as Clown (Spawn #1), as Violator (Spawn #2)",Image Comics,bad
+696,Violet Parr,56,9,13,50,79,15,Female,Human,137 cm,41 kg,Violet,Black,Violet Parr,"Vi (nickname), The Queen of the Unseen, Invisagirl (InvisaVi)",-,"The Incredibles (Movies, 2004)",Dark Horse Comics,good
+697,Vision,100,72,54,95,100,70,Male,Android,191 cm,135 kg,Gold,No Hair,Vision,Victor Shade,-,"Avengers Vol.1 #57, Young Avengers # 4",Anti-Vision,good
+698,Vision II,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,-,null,191 cm,135 kg,Red,No Hair,Vision,"Victor Shade, Ghost of Stone",Place of birth unknown,Avengers (Vol. 1) #57,Anti-Vision,good
+699,Vixen,50,38,50,50,62,25,Female,Human,175 cm,63 kg,Amber,Black,Mari McCabe,-,Zambesi,"Action Comics #521 (July, 1981)",DC Comics,good
+700,Vulcan,Sin dato,56,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,Black,Black,Gabriel Summers,Kid Vulcan,-,-,Marvel Comics,good
+701,Vulture,75,22,42,25,26,30,Male,Human,180 cm,79 kg,Brown,No Hair,Adrian Toomes,-,"Staten Island, New York City",Amazing Spider-Man #2,Marvel Comics,bad
+702,Walrus,50,28,8,50,11,20,Male,Human,183 cm,162 kg,Blue,Black,Hubert Carpent,-,"Brooklyn, New York","Defenders #131 (May, 1984)",Marvel Comics,bad
+703,War Machine,63,80,63,100,100,85,Male,Human,185 cm,95 kg,Brown,Brown,James Rupert Rhodes,"Rhodey, Iron Man, Jim Rhodes","Philadelphia, Pennsylvania",Iron Man #118 (1979),Marvel Comics,good
+704,Warbird,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,180 cm,54 kg,Blue,Blond,Carol Danvers,"Ms. Marvel, Binary","Boston, Massachusetts","(as Carol Danvers) MARVEL SUPER HEROES #13, (as Ms. Marvel) MS. MARVEL #1, (as Binary) X-MEN # 164, AVENGERS Vol. 3, # 4",Binary,good
+705,Warlock,88,36,79,95,71,95,Male,null,188 cm,108 kg,Red,Blond,Adam Warlock,"Him, (in an alternate future) the Magus","The Beehive, Shard Island, Atlantic Ocean",Fantastic Four #66,Marvel Comics,good
+706,Warp,38,10,23,28,85,50,Male,null,173 cm,67 kg,Brown,Black,Emil LaSalle,-,-,The New Teen Titans #14 (December 1981),DC Comics,bad
+707,Warpath,38,72,47,70,26,84,Male,Mutant,218 cm,158 kg,Brown,Black,James Proudstar,Thunderbird,"Camp Verde, Arizona","New Mutants #16 (June, 1984)",Thunderbird II,good
+708,Wasp,63,17,58,52,29,42,Female,Human,163 cm,50 kg,Blue,Auburn,Janet Van Dyne,Pixie,"Cresskill, New Jersey",TALES TO ASTONISH #44,Marvel Comics,good
+709,Watcher,100,80,67,89,100,56,Male,null,0 cm,0 kg,-,-,Uatu,-,-,"Fantastic Four #13 (April, 1963)",Marvel Comics,good
+710,Weapon XI,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,0 cm,0 kg,-,-,Weapon XI,weapon 10,-,-,Marvel Comics,bad
+711,White Canary,63,7,33,15,49,90,Female,Human,0 cm,0 kg,Brown,Black,,"Silk Sister, Sara Lance",-,Birds of Prey #1,DC Comics,bad
+712,White Queen,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,178 cm,65 kg,Blue,Blond,Emma Grace Frost,White Queen,"Boston, Massachusetts",UNCANNY X-MEN #129,Marvel Comics,good
+713,Wildfire,50,32,23,100,77,42,Male,null,0 cm,0 kg,-,-,Drake Burroughs,"ERG-1, Atom'x, Randall Burroughs, Jahr-Drake Nigle",-,-,DC Comics,good
+714,Winter Soldier,56,32,35,65,60,84,Male,Human,175 cm,117 kg,Brown,Brown,Bucky Barnes,"Bucky, Captain America",-,"Captain America Vol 5 #1 (January, 2005) (as Winter Soldier)",Marvel Comics,good
+715,Wiz Kid,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,-,null,140 cm,39 kg,Brown,Black,Takashi Matsuya,-,Place of birth unknown,X-TERMINATORS # 1,Marvel Comics,good
+716,Wolfsbane,38,16,35,42,26,42,Female,null,366 cm,473 kg,Green,Auburn,Rahne Sinclair,"Grimfang, Mutate #490","Somewhere in Ross and Cromarty, Scotland",Marvel Graphic Novel #4: New Mutants,Marvel Comics,good
+717,Wolverine,63,32,50,100,89,100,Male,Mutant,160 cm,135 kg,Blue,Black,Logan,"Weapon X, Weapon Ten, Death, Mutate 9601, Jim Logan, Emilio Garra, Weapon Chi, Experiment X, Agent Ten, Peter Richards, Mai kethLogan, Mr. Patch","Alberta, Canada",Incredible Hulk Vol. 2 #180,Marvel Comics,good
+718,Wonder Girl,75,90,25,80,39,60,Female,Demi-God,165 cm,51 kg,Blue,Blond,Cassandra Elizabeth Sandsmark,"Cassandra Sandsmark, Cassie, Helen Troy, Wonder Woman, Cassie Sandsmark",-,Wonder Woman (vol. 2) #105 (January 1996),DC Comics,good
+719,Wonder Man,75,100,53,90,64,64,Male,null,188 cm,171 kg,Red,Black,Simon Williams,"Wondie, JQ-272712-K","Paterson, New Jersey",AVENGERS #9,Marvel Comics,good
+720,Wonder Woman,88,100,79,100,100,100,Female,Amazon,183 cm,74 kg,Blue,Black,Diana Prince,"Princess Diana, Princess of the Amazons, Goddess of Truth,  Wondy, Wonder Girl, The Amazon Princess",Themyscira,"All-Star Comics #8 (December, 1941)",DC Comics,good
+721,Wondra,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Female,null,0 cm,0 kg,-,-,,-,-,-,Marvel Comics,good
+722,Wyatt Wingfoot,10,10,12,1,1,56,Male,null,196 cm,117 kg,Brown,Black,Wyatt Wingfoot,-,"Keewazi Reservation, Oklahoma",FANTASTIC FOUR #50,Marvel Comics,good
+723,X-23,75,24,42,100,55,95,Female,Mutant / Clone,155 cm,50 kg,Green,Black,Laura Kinney,"Laura Logan, Laura Howlett, Laura X, Talon, Wolverine, X23","The Facility, location unrevealed",NYX #3,Marvel Comics,good
+724,X-Man,88,53,53,95,100,84,Male,null,175 cm,61 kg,Blue,Brown,Nate Grey,Nate the Great,American Northeast of Earth-295,X-Man #1 (1995),Marvel Comics,good
+725,Yellow Claw,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,Male,null,188 cm,95 kg,Blue,No Hair,,The Claw,Somewhere in mainland China,"(historical) YELLOW CLAW #1; (modern) (telepathic 'voice' of Yellow Claw) STRANGE TALES #160, (robot Yellow Claw) STRANGE TALES # 161, (actual Yellow Claw)CAPTAIN AMERICA #164",Marvel Comics,bad
+726,Yellowjacket,88,10,12,28,12,14,Male,Human,183 cm,83 kg,Blue,Blond,Hank Pym,Hank Pym,"Elmsford, New York","(as Pym) TALES TO ASTONISH #27, (as Ant-Man) TALES TO ASTONISH #35, (as Giant-Man) TALES TO ASTONISH #49, (as Goliath) AVENGERS #28, (as Yellowjacket) AVENGERS #59",Ant-Man,good
+727,Yellowjacket II,50,10,35,28,31,28,Female,Human,165 cm,52 kg,Blue,Strawberry Blond,Rita DeMara,-,-,Avengers #264,Marvel Comics,good
+728,Ymir,50,100,27,100,98,28,Male,Frost Giant,304.8 meters,0 kg,White,No Hair,Ymir,Aurgelmir,Niffleheim,JOURNEY INTO MYSTERY #97,Marvel Comics,good
+729,Yoda,88,52,33,25,100,90,Male,Yoda's species,66 cm,17 kg,Brown,White,Yoda,-,-,Star Wars: Episode V - The Empire Strikes Back (1980),George Lucas,good
+730,Zatanna,81,10,23,28,100,56,Female,Human,170 cm,57 kg,Blue,Black,Zatanna Zatara,-,-,Hawkman #4,DC Comics,good
+731,Zoom,50,10,100,28,100,28,Male,null,185 cm,81 kg,Red,Brown,Hunter Zolomon,-,-,Flash Secret Files #3,DC Comics,bad
